@@ -28,6 +28,12 @@ Each project explores a different dataset and focuses on uncovering insights thr
 
 ---
 
+### 4. [Shopping Analysis](./4_shopping/)
+- **Description:** EDA on shopping behavior data, examining trends and distribution.
+- **Original Source:** [Kaggle Notebook](https://www.kaggle.com/code/iamsouravbanerjee/decoding-customer-shopping-trends) by *Sourav Banerjee*
+
+---
+
 ## 🛠 Tools Used
 
 - Python (pandas, numpy, matplotlib, seaborn, plotly)

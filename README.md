@@ -40,6 +40,18 @@ Each project explores a different dataset and focuses on uncovering insights thr
 
 ---
 
+### 6. [Rollercoaster Analysis](./6_rollercoaster_analysis/)
+- **Description:** EDA on rollercoaster data, examining trends and distribution.
+- **Original Source:** [Kaggle Notebook](https://www.kaggle.com/code/robikscube/introduction-to-exploratory-data-analysis) by *Rob Mulla*
+
+---
+
+### 7. [Customer Personality Analysis](./7_customer_personality/)
+- **Description:** EDA on customer personality data, examining trends and distribution.
+- **Original Source:** [Kaggle Notebook](https://www.kaggle.com/code/hasibalmuzdadid/customer-personality-analysis-segmentation) by *Hasib Al Muzdadid*
+
+---
+
 ## 🛠 Tools Used
 
 - Python (pandas, numpy, matplotlib, seaborn, plotly)

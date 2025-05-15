@@ -34,6 +34,12 @@ Each project explores a different dataset and focuses on uncovering insights thr
 
 ---
 
+### 5. [Marathon Analysis](./5_marathon_analysis/)
+- **Description:** EDA on marathon competition data, examining trends and distribution.
+- **Original Source:** [YouTube Code Along](https://www.youtube.com/watch?v=4sZFkPw87ng) by *Ryan & Matt Data Science*
+
+---
+
 ## 🛠 Tools Used
 
 - Python (pandas, numpy, matplotlib, seaborn, plotly)

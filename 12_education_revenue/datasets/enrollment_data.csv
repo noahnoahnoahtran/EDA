@@ -1,0 +1,2001 @@
+date,student_id,course_category,team,sales_rep,contract_value,contract_status
+2024-07-31,STU_0001,Business English,Team Delta,Rep_12,1326000,Active
+2024-07-15,STU_0002,Business English,Team Sigma,Rep_10,1659000,Active
+2024-03-18,STU_0003,Kids English,Team Delta,Rep_10,1060000,Active
+2024-02-28,STU_0004,Business English,Team Sigma,Rep_14,1494000,Active
+2024-03-05,STU_0005,TOEIC,Team Alpha,Rep_2,1330000,Active
+2025-11-04,STU_0006,TOEIC,Team Bravo,Rep_3,1295000,Active
+2025-04-01,STU_0007,IELTS,Team Delta,Rep_6,1924000,Active
+2024-03-05,STU_0008,Business English,Team Alpha,Rep_9,1244000,Active
+2025-01-30,STU_0009,IELTS,Team Bravo,Rep_8,1838000,Cancelled
+2024-02-06,STU_0010,Kids English,Team Delta,Rep_3,321000,Active
+2025-09-03,STU_0011,Academic Skills,Team Alpha,Rep_6,666000,Active
+2024-12-01,STU_0012,Academic Skills,Team Bravo,Rep_15,1438000,Cancelled
+2024-03-01,STU_0013,Academic Skills,Team Bravo,Rep_1,530000,Cancelled
+2024-03-01,STU_0014,Business English,Team Sigma,Rep_15,1682000,Active
+2025-08-29,STU_0015,IELTS,Team Sigma,Rep_10,287000,Active
+2025-02-27,STU_0016,Business English,Team Alpha,Rep_3,1596000,Active
+2024-08-23,STU_0017,IELTS,Team Alpha,Rep_14,1323000,Active
+2025-11-10,STU_0018,Kids English,Team Delta,Rep_12,1071000,Active
+2025-01-06,STU_0019,IELTS,Team Sigma,Rep_9,1887000,Active
+2024-12-01,STU_0020,TOEIC,Team Sigma,Rep_1,330000,Active
+2024-01-21,STU_0021,Kids English,Team Sigma,Rep_8,1885000,Cancelled
+2025-12-10,STU_0022,Kids English,Team Bravo,Rep_5,1532000,Cancelled
+2025-09-19,STU_0023,Business English,Team Alpha,Rep_15,969000,Active
+2024-08-30,STU_0024,Business English,Team Bravo,Rep_3,543000,Active
+2024-06-19,STU_0025,Business English,Team Delta,Rep_2,1715000,Active
+2025-07-06,STU_0026,Kids English,Team Bravo,Rep_9,1637000,Active
+2025-07-10,STU_0027,Academic Skills,Team Sigma,Rep_9,1005000,Active
+2025-07-27,STU_0028,Academic Skills,Team Delta,Rep_3,585000,Active
+2024-01-26,STU_0029,IELTS,Team Alpha,Rep_7,1415000,Active
+2024-12-07,STU_0030,Academic Skills,Team Bravo,Rep_8,1155000,Active
+2024-08-27,STU_0031,TOEIC,Team Delta,Rep_14,476000,Active
+2024-07-16,STU_0032,Business English,Team Bravo,Rep_8,1384000,Active
+2025-09-21,STU_0033,Kids English,Team Delta,Rep_2,659000,Active
+2024-11-01,STU_0034,Academic Skills,Team Sigma,Rep_13,1537000,Active
+2025-11-03,STU_0035,IELTS,Team Delta,Rep_4,221000,Cancelled
+2024-06-21,STU_0036,Kids English,Team Delta,Rep_7,452000,Active
+2025-10-20,STU_0037,Kids English,Team Delta,Rep_15,947000,Active
+2025-10-13,STU_0038,Business English,Team Bravo,Rep_3,1056000,Active
+2024-01-16,STU_0039,Business English,Team Sigma,Rep_14,1784000,Active
+2024-09-02,STU_0040,IELTS,Team Alpha,Rep_8,674000,Active
+2025-12-14,STU_0041,Academic Skills,Team Sigma,Rep_6,1282000,Active
+2024-06-01,STU_0042,TOEIC,Team Bravo,Rep_3,710000,Active
+2025-02-05,STU_0043,IELTS,Team Sigma,Rep_6,1905000,Active
+2025-02-07,STU_0044,TOEIC,Team Bravo,Rep_6,1699000,Cancelled
+2024-11-21,STU_0045,TOEIC,Team Alpha,Rep_12,899000,Active
+2024-01-04,STU_0046,Business English,Team Alpha,Rep_7,1175000,Active
+2024-06-07,STU_0047,Business English,Team Alpha,Rep_14,389000,Cancelled
+2024-08-03,STU_0048,Academic Skills,Team Delta,Rep_9,1157000,Active
+2024-04-08,STU_0049,Academic Skills,Team Sigma,Rep_7,886000,Cancelled
+2025-04-25,STU_0050,Academic Skills,Team Bravo,Rep_11,1157000,Active
+2024-12-25,STU_0051,Academic Skills,Team Sigma,Rep_10,762000,Active
+2024-10-20,STU_0052,Academic Skills,Team Bravo,Rep_3,1790000,Active
+2024-04-10,STU_0053,Business English,Team Bravo,Rep_8,1467000,Active
+2025-06-28,STU_0054,Academic Skills,Team Delta,Rep_15,1031000,Active
+2024-12-10,STU_0055,Business English,Team Alpha,Rep_14,1728000,Active
+2025-10-09,STU_0056,IELTS,Team Bravo,Rep_4,1354000,Active
+2025-06-23,STU_0057,Kids English,Team Sigma,Rep_2,1708000,Active
+2024-01-18,STU_0058,Business English,Team Delta,Rep_10,846000,Active
+2025-03-12,STU_0059,Kids English,Team Bravo,Rep_4,220000,Cancelled
+2024-08-05,STU_0060,Business English,Team Sigma,Rep_13,1040000,Cancelled
+2024-12-28,STU_0061,IELTS,Team Alpha,Rep_15,366000,Cancelled
+2025-02-14,STU_0062,Academic Skills,Team Bravo,Rep_8,1497000,Active
+2025-11-08,STU_0063,Kids English,Team Alpha,Rep_15,587000,Active
+2025-02-13,STU_0064,IELTS,Team Bravo,Rep_1,800000,Active
+2025-11-09,STU_0065,Academic Skills,Team Bravo,Rep_3,515000,Active
+2025-01-17,STU_0066,Academic Skills,Team Bravo,Rep_14,213000,Active
+2024-12-28,STU_0067,Business English,Team Sigma,Rep_8,441000,Active
+2025-06-19,STU_0068,Business English,Team Delta,Rep_6,976000,Active
+2025-10-17,STU_0069,TOEIC,Team Alpha,Rep_1,1569000,Active
+2024-10-07,STU_0070,TOEIC,Team Sigma,Rep_6,764000,Active
+2024-05-28,STU_0071,Business English,Team Bravo,Rep_12,1097000,Active
+2025-10-31,STU_0072,Academic Skills,Team Bravo,Rep_3,1563000,Active
+2025-08-28,STU_0073,Academic Skills,Team Delta,Rep_8,291000,Cancelled
+2024-11-09,STU_0074,Kids English,Team Bravo,Rep_9,1590000,Active
+2024-02-01,STU_0075,TOEIC,Team Bravo,Rep_1,1155000,Active
+2025-12-28,STU_0076,TOEIC,Team Delta,Rep_10,1678000,Active
+2024-02-04,STU_0077,Business English,Team Delta,Rep_4,1651000,Active
+2025-09-28,STU_0078,IELTS,Team Delta,Rep_7,708000,Active
+2024-07-20,STU_0079,IELTS,Team Bravo,Rep_4,975000,Active
+2024-06-12,STU_0080,IELTS,Team Sigma,Rep_9,234000,Active
+2025-10-05,STU_0081,Academic Skills,Team Alpha,Rep_1,405000,Active
+2025-02-05,STU_0082,IELTS,Team Delta,Rep_7,1304000,Active
+2024-03-01,STU_0083,IELTS,Team Sigma,Rep_11,1785000,Active
+2024-01-14,STU_0084,IELTS,Team Bravo,Rep_7,1611000,Cancelled
+2025-09-01,STU_0085,TOEIC,Team Sigma,Rep_9,1225000,Active
+2025-12-02,STU_0086,Academic Skills,Team Bravo,Rep_10,1221000,Active
+2025-07-15,STU_0087,TOEIC,Team Alpha,Rep_12,1613000,Cancelled
+2025-03-09,STU_0088,TOEIC,Team Sigma,Rep_5,765000,Active
+2024-03-25,STU_0089,Academic Skills,Team Alpha,Rep_1,1329000,Active
+2024-12-17,STU_0090,IELTS,Team Sigma,Rep_9,1995000,Active
+2024-09-24,STU_0091,Business English,Team Bravo,Rep_4,1700000,Active
+2024-12-26,STU_0092,Academic Skills,Team Alpha,Rep_14,902000,Cancelled
+2025-10-29,STU_0093,Business English,Team Sigma,Rep_13,601000,Active
+2025-01-28,STU_0094,IELTS,Team Sigma,Rep_9,929000,Cancelled
+2024-05-31,STU_0095,Business English,Team Sigma,Rep_4,1779000,Active
+2025-10-16,STU_0096,Kids English,Team Alpha,Rep_8,361000,Active
+2024-06-01,STU_0097,TOEIC,Team Bravo,Rep_5,401000,Active
+2025-07-15,STU_0098,Business English,Team Delta,Rep_6,1195000,Active
+2025-02-19,STU_0099,Kids English,Team Sigma,Rep_10,469000,Active
+2025-01-29,STU_0100,Academic Skills,Team Bravo,Rep_15,1015000,Cancelled
+2025-02-15,STU_0101,TOEIC,Team Delta,Rep_5,1494000,Active
+2025-10-27,STU_0102,Kids English,Team Alpha,Rep_5,655000,Cancelled
+2025-12-07,STU_0103,IELTS,Team Sigma,Rep_3,1685000,Active
+2024-11-14,STU_0104,Academic Skills,Team Bravo,Rep_8,1950000,Cancelled
+2025-09-22,STU_0105,IELTS,Team Bravo,Rep_9,1475000,Active
+2025-01-18,STU_0106,Academic Skills,Team Delta,Rep_2,1216000,Active
+2024-11-02,STU_0107,IELTS,Team Bravo,Rep_12,1925000,Active
+2025-04-25,STU_0108,IELTS,Team Delta,Rep_6,495000,Active
+2025-03-30,STU_0109,Academic Skills,Team Bravo,Rep_2,1948000,Active
+2025-01-22,STU_0110,TOEIC,Team Sigma,Rep_5,919000,Active
+2025-07-04,STU_0111,IELTS,Team Delta,Rep_2,1972000,Active
+2025-11-02,STU_0112,IELTS,Team Bravo,Rep_5,537000,Cancelled
+2024-05-13,STU_0113,Kids English,Team Delta,Rep_7,1078000,Active
+2025-11-08,STU_0114,Kids English,Team Sigma,Rep_13,1276000,Active
+2024-01-28,STU_0115,Kids English,Team Delta,Rep_14,991000,Active
+2024-03-12,STU_0116,IELTS,Team Bravo,Rep_7,416000,Active
+2025-02-01,STU_0117,IELTS,Team Alpha,Rep_1,963000,Active
+2024-06-09,STU_0118,Kids English,Team Alpha,Rep_8,387000,Active
+2024-08-22,STU_0119,IELTS,Team Bravo,Rep_9,579000,Active
+2024-05-02,STU_0120,IELTS,Team Bravo,Rep_1,692000,Active
+2024-09-26,STU_0121,Business English,Team Bravo,Rep_12,1264000,Active
+2024-02-23,STU_0122,Business English,Team Delta,Rep_12,1380000,Active
+2024-10-01,STU_0123,Business English,Team Alpha,Rep_4,214000,Active
+2025-08-18,STU_0124,TOEIC,Team Alpha,Rep_3,264000,Active
+2024-05-03,STU_0125,Academic Skills,Team Alpha,Rep_12,720000,Active
+2024-10-16,STU_0126,TOEIC,Team Delta,Rep_4,1567000,Active
+2025-02-19,STU_0127,Kids English,Team Alpha,Rep_4,1352000,Active
+2024-06-18,STU_0128,IELTS,Team Delta,Rep_12,847000,Active
+2025-11-11,STU_0129,Kids English,Team Delta,Rep_3,1695000,Active
+2024-05-09,STU_0130,Kids English,Team Bravo,Rep_1,1286000,Active
+2025-12-08,STU_0131,Kids English,Team Delta,Rep_15,1362000,Active
+2024-03-15,STU_0132,IELTS,Team Bravo,Rep_3,1722000,Active
+2025-02-04,STU_0133,TOEIC,Team Alpha,Rep_5,792000,Active
+2024-12-04,STU_0134,Academic Skills,Team Delta,Rep_11,591000,Active
+2024-01-08,STU_0135,Business English,Team Delta,Rep_14,1898000,Cancelled
+2024-09-17,STU_0136,Kids English,Team Delta,Rep_1,618000,Active
+2025-03-10,STU_0137,Academic Skills,Team Bravo,Rep_5,488000,Active
+2024-01-16,STU_0138,TOEIC,Team Alpha,Rep_5,578000,Active
+2025-08-13,STU_0139,Business English,Team Bravo,Rep_11,1996000,Active
+2025-02-11,STU_0140,Academic Skills,Team Alpha,Rep_2,1713000,Active
+2024-07-17,STU_0141,Business English,Team Bravo,Rep_8,430000,Cancelled
+2024-09-14,STU_0142,Academic Skills,Team Sigma,Rep_10,1217000,Active
+2025-02-19,STU_0143,Business English,Team Bravo,Rep_12,240000,Active
+2024-08-02,STU_0144,Academic Skills,Team Alpha,Rep_11,1251000,Active
+2025-09-06,STU_0145,IELTS,Team Bravo,Rep_13,334000,Active
+2024-11-23,STU_0146,Business English,Team Alpha,Rep_5,400000,Active
+2025-04-06,STU_0147,Academic Skills,Team Alpha,Rep_9,979000,Active
+2025-01-31,STU_0148,Academic Skills,Team Sigma,Rep_10,1129000,Active
+2025-04-27,STU_0149,Business English,Team Delta,Rep_9,1256000,Active
+2025-03-21,STU_0150,IELTS,Team Sigma,Rep_10,1271000,Active
+2025-06-12,STU_0151,Business English,Team Sigma,Rep_10,702000,Active
+2025-11-29,STU_0152,IELTS,Team Bravo,Rep_3,606000,Active
+2025-08-08,STU_0153,Academic Skills,Team Alpha,Rep_4,1797000,Active
+2024-03-18,STU_0154,Academic Skills,Team Bravo,Rep_3,1951000,Active
+2024-06-27,STU_0155,IELTS,Team Bravo,Rep_15,1004000,Active
+2025-11-07,STU_0156,IELTS,Team Alpha,Rep_14,298000,Active
+2024-12-11,STU_0157,Business English,Team Alpha,Rep_7,883000,Active
+2024-05-03,STU_0158,Academic Skills,Team Bravo,Rep_9,925000,Active
+2025-10-23,STU_0159,Academic Skills,Team Delta,Rep_1,1770000,Active
+2025-10-19,STU_0160,Kids English,Team Alpha,Rep_5,1160000,Active
+2024-05-25,STU_0161,TOEIC,Team Sigma,Rep_3,1962000,Active
+2024-06-28,STU_0162,Business English,Team Alpha,Rep_11,812000,Active
+2025-05-04,STU_0163,Academic Skills,Team Bravo,Rep_14,1685000,Active
+2024-11-15,STU_0164,Academic Skills,Team Alpha,Rep_1,842000,Active
+2025-04-01,STU_0165,Kids English,Team Alpha,Rep_12,1992000,Cancelled
+2025-04-05,STU_0166,IELTS,Team Alpha,Rep_1,1228000,Active
+2024-12-13,STU_0167,IELTS,Team Sigma,Rep_3,1441000,Active
+2025-03-03,STU_0168,Business English,Team Sigma,Rep_4,702000,Active
+2024-06-13,STU_0169,IELTS,Team Delta,Rep_4,966000,Cancelled
+2024-03-19,STU_0170,Kids English,Team Bravo,Rep_3,597000,Active
+2025-03-16,STU_0171,IELTS,Team Bravo,Rep_14,1070000,Active
+2024-05-01,STU_0172,TOEIC,Team Delta,Rep_8,994000,Active
+2025-11-17,STU_0173,Kids English,Team Delta,Rep_14,592000,Active
+2024-05-12,STU_0174,IELTS,Team Sigma,Rep_6,406000,Active
+2025-11-26,STU_0175,Kids English,Team Sigma,Rep_9,1238000,Cancelled
+2025-01-06,STU_0176,TOEIC,Team Delta,Rep_7,1777000,Active
+2024-09-30,STU_0177,Kids English,Team Delta,Rep_4,1091000,Active
+2025-01-08,STU_0178,TOEIC,Team Alpha,Rep_14,1684000,Active
+2025-09-04,STU_0179,Kids English,Team Sigma,Rep_5,1914000,Active
+2024-11-11,STU_0180,IELTS,Team Sigma,Rep_13,1798000,Active
+2024-06-17,STU_0181,IELTS,Team Alpha,Rep_11,1063000,Active
+2025-08-23,STU_0182,IELTS,Team Alpha,Rep_15,942000,Active
+2025-04-19,STU_0183,TOEIC,Team Delta,Rep_13,1464000,Active
+2025-04-17,STU_0184,Academic Skills,Team Bravo,Rep_1,763000,Active
+2025-12-27,STU_0185,Kids English,Team Bravo,Rep_1,1220000,Active
+2024-09-14,STU_0186,TOEIC,Team Alpha,Rep_3,295000,Cancelled
+2025-11-09,STU_0187,TOEIC,Team Sigma,Rep_12,1957000,Active
+2025-12-30,STU_0188,Kids English,Team Alpha,Rep_14,684000,Cancelled
+2025-08-12,STU_0189,IELTS,Team Bravo,Rep_13,1630000,Active
+2024-02-21,STU_0190,TOEIC,Team Sigma,Rep_9,430000,Active
+2024-07-13,STU_0191,TOEIC,Team Alpha,Rep_6,948000,Active
+2024-12-02,STU_0192,Kids English,Team Sigma,Rep_5,1878000,Active
+2025-07-24,STU_0193,Business English,Team Alpha,Rep_13,1394000,Active
+2025-03-08,STU_0194,Academic Skills,Team Sigma,Rep_9,740000,Active
+2025-03-21,STU_0195,IELTS,Team Sigma,Rep_4,1259000,Active
+2024-03-01,STU_0196,Kids English,Team Bravo,Rep_1,724000,Active
+2025-04-20,STU_0197,TOEIC,Team Sigma,Rep_15,1383000,Cancelled
+2025-12-20,STU_0198,Kids English,Team Bravo,Rep_8,1922000,Cancelled
+2025-03-13,STU_0199,Business English,Team Sigma,Rep_4,1466000,Active
+2024-12-26,STU_0200,Kids English,Team Bravo,Rep_7,1309000,Active
+2024-01-11,STU_0201,Academic Skills,Team Bravo,Rep_10,777000,Active
+2024-09-17,STU_0202,TOEIC,Team Alpha,Rep_13,881000,Active
+2025-11-03,STU_0203,Academic Skills,Team Alpha,Rep_7,756000,Active
+2025-03-03,STU_0204,TOEIC,Team Sigma,Rep_4,1797000,Active
+2024-08-18,STU_0205,Business English,Team Delta,Rep_14,1212000,Active
+2024-12-07,STU_0206,Business English,Team Bravo,Rep_10,845000,Cancelled
+2024-06-05,STU_0207,IELTS,Team Bravo,Rep_13,995000,Active
+2024-12-07,STU_0208,Kids English,Team Delta,Rep_6,1251000,Active
+2024-02-21,STU_0209,IELTS,Team Bravo,Rep_3,1843000,Active
+2025-04-27,STU_0210,Kids English,Team Bravo,Rep_5,1779000,Active
+2025-08-02,STU_0211,IELTS,Team Delta,Rep_4,1563000,Active
+2024-01-07,STU_0212,IELTS,Team Sigma,Rep_1,1554000,Cancelled
+2025-12-06,STU_0213,IELTS,Team Bravo,Rep_9,1863000,Active
+2025-12-07,STU_0214,TOEIC,Team Alpha,Rep_1,1729000,Cancelled
+2024-06-15,STU_0215,Business English,Team Sigma,Rep_3,1571000,Active
+2025-07-12,STU_0216,Business English,Team Sigma,Rep_2,1696000,Active
+2025-11-15,STU_0217,IELTS,Team Delta,Rep_13,1454000,Active
+2025-07-13,STU_0218,Academic Skills,Team Sigma,Rep_11,389000,Active
+2024-10-21,STU_0219,Business English,Team Bravo,Rep_12,1448000,Cancelled
+2025-09-04,STU_0220,Kids English,Team Sigma,Rep_9,1608000,Cancelled
+2024-12-01,STU_0221,Business English,Team Sigma,Rep_12,1600000,Active
+2024-12-13,STU_0222,Academic Skills,Team Delta,Rep_15,1506000,Active
+2024-09-03,STU_0223,Business English,Team Bravo,Rep_3,832000,Active
+2024-05-18,STU_0224,Kids English,Team Sigma,Rep_6,827000,Cancelled
+2024-10-21,STU_0225,TOEIC,Team Delta,Rep_15,1172000,Active
+2025-03-28,STU_0226,TOEIC,Team Bravo,Rep_8,1968000,Active
+2025-02-21,STU_0227,Business English,Team Bravo,Rep_14,1482000,Active
+2025-01-02,STU_0228,Kids English,Team Sigma,Rep_12,1582000,Active
+2025-08-27,STU_0229,Kids English,Team Alpha,Rep_3,909000,Active
+2024-04-25,STU_0230,Academic Skills,Team Bravo,Rep_7,1679000,Active
+2024-06-26,STU_0231,TOEIC,Team Delta,Rep_12,1634000,Cancelled
+2025-07-11,STU_0232,Kids English,Team Bravo,Rep_7,848000,Active
+2025-10-24,STU_0233,IELTS,Team Alpha,Rep_11,517000,Active
+2025-05-03,STU_0234,Kids English,Team Bravo,Rep_13,1900000,Cancelled
+2025-05-08,STU_0235,IELTS,Team Delta,Rep_2,1448000,Active
+2024-06-20,STU_0236,Kids English,Team Bravo,Rep_12,1457000,Cancelled
+2024-12-18,STU_0237,Kids English,Team Delta,Rep_5,883000,Active
+2025-08-05,STU_0238,TOEIC,Team Delta,Rep_1,863000,Active
+2025-07-13,STU_0239,Academic Skills,Team Alpha,Rep_5,1597000,Cancelled
+2024-03-24,STU_0240,Kids English,Team Sigma,Rep_10,1895000,Active
+2024-06-30,STU_0241,Business English,Team Bravo,Rep_5,1831000,Active
+2024-11-07,STU_0242,IELTS,Team Delta,Rep_13,1695000,Active
+2025-03-13,STU_0243,Academic Skills,Team Alpha,Rep_7,1456000,Active
+2024-05-25,STU_0244,TOEIC,Team Sigma,Rep_11,1915000,Active
+2024-07-27,STU_0245,Business English,Team Sigma,Rep_4,1336000,Active
+2025-02-10,STU_0246,IELTS,Team Bravo,Rep_8,1720000,Cancelled
+2024-02-15,STU_0247,Business English,Team Alpha,Rep_3,641000,Active
+2024-10-04,STU_0248,TOEIC,Team Delta,Rep_11,763000,Active
+2024-04-05,STU_0249,Business English,Team Delta,Rep_3,1491000,Active
+2025-09-09,STU_0250,Business English,Team Bravo,Rep_9,1733000,Active
+2024-04-01,STU_0251,Kids English,Team Sigma,Rep_8,1609000,Active
+2024-02-07,STU_0252,Kids English,Team Sigma,Rep_2,1610000,Cancelled
+2024-08-07,STU_0253,Kids English,Team Delta,Rep_6,1336000,Active
+2025-09-05,STU_0254,Academic Skills,Team Alpha,Rep_9,1836000,Active
+2025-07-29,STU_0255,IELTS,Team Alpha,Rep_4,1848000,Active
+2025-10-08,STU_0256,Kids English,Team Bravo,Rep_4,1151000,Active
+2024-04-17,STU_0257,IELTS,Team Delta,Rep_13,1304000,Active
+2024-05-04,STU_0258,Academic Skills,Team Delta,Rep_4,898000,Active
+2025-05-09,STU_0259,Business English,Team Alpha,Rep_2,312000,Active
+2024-10-25,STU_0260,Kids English,Team Alpha,Rep_14,201000,Active
+2025-11-25,STU_0261,Business English,Team Bravo,Rep_6,841000,Active
+2025-04-21,STU_0262,TOEIC,Team Bravo,Rep_2,419000,Active
+2024-01-15,STU_0263,IELTS,Team Sigma,Rep_7,1789000,Active
+2024-07-11,STU_0264,TOEIC,Team Alpha,Rep_8,1054000,Active
+2025-08-30,STU_0265,Business English,Team Sigma,Rep_2,1959000,Active
+2025-12-01,STU_0266,Kids English,Team Delta,Rep_3,1448000,Active
+2024-10-10,STU_0267,IELTS,Team Delta,Rep_8,584000,Active
+2025-10-14,STU_0268,Kids English,Team Sigma,Rep_10,1626000,Active
+2024-06-21,STU_0269,TOEIC,Team Bravo,Rep_9,1861000,Active
+2024-07-05,STU_0270,Kids English,Team Sigma,Rep_2,1353000,Active
+2025-12-27,STU_0271,Business English,Team Delta,Rep_11,1276000,Active
+2024-07-16,STU_0272,TOEIC,Team Delta,Rep_14,1907000,Active
+2025-10-29,STU_0273,TOEIC,Team Bravo,Rep_6,929000,Cancelled
+2025-06-08,STU_0274,Kids English,Team Bravo,Rep_1,1895000,Active
+2025-11-12,STU_0275,Kids English,Team Sigma,Rep_9,1933000,Active
+2025-10-04,STU_0276,TOEIC,Team Alpha,Rep_14,1639000,Active
+2024-07-09,STU_0277,Academic Skills,Team Sigma,Rep_1,446000,Active
+2024-08-06,STU_0278,TOEIC,Team Alpha,Rep_11,1035000,Active
+2025-01-10,STU_0279,Business English,Team Sigma,Rep_9,1662000,Cancelled
+2024-06-06,STU_0280,IELTS,Team Sigma,Rep_10,402000,Active
+2024-03-02,STU_0281,Academic Skills,Team Sigma,Rep_10,1407000,Active
+2025-02-18,STU_0282,Kids English,Team Delta,Rep_13,322000,Active
+2025-03-16,STU_0283,Academic Skills,Team Sigma,Rep_8,600000,Cancelled
+2024-01-31,STU_0284,Academic Skills,Team Delta,Rep_9,966000,Active
+2024-11-25,STU_0285,Business English,Team Delta,Rep_14,493000,Active
+2025-04-17,STU_0286,TOEIC,Team Alpha,Rep_1,479000,Active
+2025-07-06,STU_0287,Kids English,Team Sigma,Rep_8,1083000,Active
+2024-07-27,STU_0288,Business English,Team Sigma,Rep_15,1833000,Cancelled
+2024-07-18,STU_0289,TOEIC,Team Delta,Rep_13,397000,Cancelled
+2024-07-29,STU_0290,Kids English,Team Sigma,Rep_14,1181000,Active
+2024-05-29,STU_0291,Kids English,Team Sigma,Rep_1,1734000,Cancelled
+2024-06-11,STU_0292,Academic Skills,Team Delta,Rep_2,951000,Active
+2024-06-07,STU_0293,IELTS,Team Bravo,Rep_14,343000,Cancelled
+2024-02-16,STU_0294,Academic Skills,Team Delta,Rep_2,808000,Active
+2024-11-20,STU_0295,TOEIC,Team Delta,Rep_7,1424000,Active
+2025-12-21,STU_0296,Academic Skills,Team Alpha,Rep_11,1347000,Active
+2024-01-01,STU_0297,Kids English,Team Sigma,Rep_12,386000,Active
+2025-11-24,STU_0298,Kids English,Team Alpha,Rep_2,1549000,Active
+2024-04-20,STU_0299,TOEIC,Team Alpha,Rep_4,663000,Active
+2025-06-10,STU_0300,TOEIC,Team Delta,Rep_14,1572000,Active
+2024-10-27,STU_0301,Kids English,Team Bravo,Rep_6,1994000,Active
+2024-04-26,STU_0302,Business English,Team Delta,Rep_4,859000,Active
+2024-08-18,STU_0303,Business English,Team Bravo,Rep_10,963000,Active
+2025-04-26,STU_0304,Kids English,Team Sigma,Rep_6,1154000,Cancelled
+2024-09-18,STU_0305,Academic Skills,Team Bravo,Rep_12,602000,Active
+2025-06-05,STU_0306,IELTS,Team Delta,Rep_1,1569000,Active
+2025-12-03,STU_0307,Academic Skills,Team Sigma,Rep_6,1734000,Active
+2024-03-25,STU_0308,IELTS,Team Bravo,Rep_4,346000,Cancelled
+2024-05-21,STU_0309,Kids English,Team Alpha,Rep_13,1371000,Active
+2024-07-27,STU_0310,Kids English,Team Sigma,Rep_5,1063000,Active
+2024-05-28,STU_0311,IELTS,Team Delta,Rep_11,1934000,Active
+2025-05-30,STU_0312,Academic Skills,Team Bravo,Rep_10,688000,Cancelled
+2025-01-16,STU_0313,Academic Skills,Team Bravo,Rep_7,1128000,Active
+2025-11-14,STU_0314,TOEIC,Team Alpha,Rep_6,1863000,Active
+2024-10-05,STU_0315,Kids English,Team Sigma,Rep_6,750000,Active
+2024-11-23,STU_0316,IELTS,Team Bravo,Rep_7,537000,Cancelled
+2024-03-28,STU_0317,IELTS,Team Delta,Rep_12,1071000,Active
+2024-10-21,STU_0318,Business English,Team Bravo,Rep_9,840000,Active
+2024-05-19,STU_0319,IELTS,Team Delta,Rep_14,672000,Cancelled
+2024-01-11,STU_0320,Kids English,Team Sigma,Rep_6,350000,Active
+2024-04-05,STU_0321,IELTS,Team Bravo,Rep_5,1638000,Active
+2024-07-27,STU_0322,IELTS,Team Alpha,Rep_11,1521000,Active
+2025-10-13,STU_0323,Academic Skills,Team Bravo,Rep_1,1834000,Active
+2024-03-27,STU_0324,Academic Skills,Team Alpha,Rep_4,462000,Active
+2025-05-26,STU_0325,Business English,Team Sigma,Rep_1,1987000,Active
+2024-06-07,STU_0326,Academic Skills,Team Sigma,Rep_14,343000,Active
+2025-11-28,STU_0327,Kids English,Team Sigma,Rep_9,545000,Active
+2025-09-22,STU_0328,IELTS,Team Alpha,Rep_3,823000,Cancelled
+2024-07-20,STU_0329,Kids English,Team Alpha,Rep_7,1216000,Active
+2024-08-20,STU_0330,Kids English,Team Sigma,Rep_12,1795000,Cancelled
+2024-05-03,STU_0331,TOEIC,Team Delta,Rep_7,1080000,Active
+2025-10-22,STU_0332,TOEIC,Team Delta,Rep_6,201000,Cancelled
+2024-03-21,STU_0333,Academic Skills,Team Bravo,Rep_8,1096000,Active
+2025-02-12,STU_0334,Kids English,Team Sigma,Rep_2,1527000,Active
+2025-06-02,STU_0335,Academic Skills,Team Bravo,Rep_4,453000,Active
+2024-02-19,STU_0336,IELTS,Team Delta,Rep_3,1875000,Cancelled
+2025-09-03,STU_0337,Business English,Team Bravo,Rep_8,652000,Active
+2025-03-05,STU_0338,Academic Skills,Team Bravo,Rep_8,1260000,Active
+2024-07-29,STU_0339,Business English,Team Alpha,Rep_8,1383000,Active
+2024-09-18,STU_0340,Business English,Team Alpha,Rep_8,1214000,Active
+2025-05-29,STU_0341,Kids English,Team Delta,Rep_4,208000,Active
+2025-06-07,STU_0342,Kids English,Team Bravo,Rep_7,1456000,Active
+2024-01-27,STU_0343,Academic Skills,Team Sigma,Rep_3,1322000,Active
+2025-11-30,STU_0344,Business English,Team Delta,Rep_14,1882000,Active
+2024-03-11,STU_0345,IELTS,Team Delta,Rep_8,1015000,Active
+2025-07-31,STU_0346,Kids English,Team Delta,Rep_8,407000,Active
+2024-03-16,STU_0347,TOEIC,Team Alpha,Rep_5,1354000,Active
+2024-04-26,STU_0348,Academic Skills,Team Bravo,Rep_3,603000,Active
+2024-09-05,STU_0349,Kids English,Team Alpha,Rep_7,351000,Active
+2025-07-17,STU_0350,IELTS,Team Bravo,Rep_5,253000,Active
+2024-06-06,STU_0351,IELTS,Team Delta,Rep_1,1343000,Active
+2025-11-22,STU_0352,Business English,Team Sigma,Rep_15,1896000,Active
+2025-04-14,STU_0353,Academic Skills,Team Sigma,Rep_5,827000,Active
+2025-09-15,STU_0354,TOEIC,Team Delta,Rep_10,786000,Active
+2025-08-16,STU_0355,Business English,Team Sigma,Rep_8,1848000,Active
+2024-04-12,STU_0356,Academic Skills,Team Bravo,Rep_10,1643000,Active
+2024-09-16,STU_0357,TOEIC,Team Bravo,Rep_1,1645000,Active
+2025-11-09,STU_0358,Academic Skills,Team Delta,Rep_13,303000,Active
+2024-06-25,STU_0359,TOEIC,Team Bravo,Rep_11,453000,Active
+2024-12-14,STU_0360,Kids English,Team Sigma,Rep_3,1450000,Active
+2025-03-26,STU_0361,TOEIC,Team Delta,Rep_3,1335000,Active
+2025-07-15,STU_0362,Business English,Team Alpha,Rep_13,709000,Active
+2024-11-07,STU_0363,Academic Skills,Team Delta,Rep_15,1696000,Cancelled
+2024-05-23,STU_0364,TOEIC,Team Sigma,Rep_1,298000,Active
+2024-08-18,STU_0365,TOEIC,Team Sigma,Rep_11,352000,Active
+2024-09-28,STU_0366,Business English,Team Alpha,Rep_12,1113000,Active
+2024-11-13,STU_0367,TOEIC,Team Bravo,Rep_2,1077000,Active
+2024-06-24,STU_0368,Academic Skills,Team Alpha,Rep_5,537000,Active
+2025-01-27,STU_0369,IELTS,Team Delta,Rep_5,1929000,Active
+2025-08-28,STU_0370,TOEIC,Team Delta,Rep_11,1021000,Active
+2024-03-18,STU_0371,TOEIC,Team Bravo,Rep_2,1386000,Active
+2024-07-08,STU_0372,IELTS,Team Bravo,Rep_11,1943000,Active
+2024-05-06,STU_0373,Business English,Team Sigma,Rep_3,1156000,Active
+2024-09-13,STU_0374,Business English,Team Bravo,Rep_12,1904000,Active
+2024-09-14,STU_0375,TOEIC,Team Sigma,Rep_11,360000,Active
+2024-11-30,STU_0376,Kids English,Team Alpha,Rep_15,1803000,Cancelled
+2025-02-06,STU_0377,TOEIC,Team Delta,Rep_11,1000000,Active
+2025-02-11,STU_0378,Business English,Team Bravo,Rep_7,597000,Active
+2025-09-27,STU_0379,Academic Skills,Team Sigma,Rep_4,1500000,Active
+2025-08-16,STU_0380,Academic Skills,Team Alpha,Rep_1,1015000,Active
+2025-03-04,STU_0381,Kids English,Team Bravo,Rep_2,1727000,Cancelled
+2025-06-28,STU_0382,Academic Skills,Team Alpha,Rep_9,1615000,Active
+2024-06-07,STU_0383,Kids English,Team Sigma,Rep_5,1358000,Cancelled
+2025-11-13,STU_0384,Academic Skills,Team Sigma,Rep_7,1418000,Active
+2024-06-01,STU_0385,TOEIC,Team Alpha,Rep_6,600000,Cancelled
+2025-05-29,STU_0386,TOEIC,Team Delta,Rep_3,839000,Active
+2025-12-06,STU_0387,TOEIC,Team Alpha,Rep_5,1256000,Active
+2024-07-27,STU_0388,TOEIC,Team Bravo,Rep_11,887000,Active
+2025-11-11,STU_0389,IELTS,Team Bravo,Rep_6,659000,Active
+2024-01-16,STU_0390,Academic Skills,Team Delta,Rep_4,1154000,Active
+2024-04-17,STU_0391,Kids English,Team Alpha,Rep_8,669000,Active
+2025-05-14,STU_0392,IELTS,Team Sigma,Rep_10,1598000,Active
+2025-01-30,STU_0393,Academic Skills,Team Sigma,Rep_14,1245000,Active
+2024-02-02,STU_0394,IELTS,Team Bravo,Rep_12,949000,Active
+2024-07-25,STU_0395,TOEIC,Team Sigma,Rep_8,1893000,Active
+2024-11-05,STU_0396,Business English,Team Delta,Rep_12,237000,Active
+2025-09-11,STU_0397,Kids English,Team Alpha,Rep_2,429000,Active
+2024-04-17,STU_0398,Business English,Team Delta,Rep_3,1588000,Active
+2024-12-16,STU_0399,Academic Skills,Team Sigma,Rep_8,762000,Active
+2024-02-02,STU_0400,Academic Skills,Team Delta,Rep_9,637000,Active
+2024-09-16,STU_0401,Business English,Team Alpha,Rep_13,1999000,Active
+2024-02-08,STU_0402,IELTS,Team Bravo,Rep_5,1506000,Active
+2025-09-29,STU_0403,Academic Skills,Team Sigma,Rep_7,226000,Active
+2025-11-06,STU_0404,Kids English,Team Sigma,Rep_10,425000,Active
+2025-01-09,STU_0405,Academic Skills,Team Sigma,Rep_5,1500000,Active
+2025-08-08,STU_0406,Kids English,Team Alpha,Rep_7,997000,Active
+2025-07-13,STU_0407,Kids English,Team Sigma,Rep_8,1832000,Active
+2024-05-16,STU_0408,Academic Skills,Team Alpha,Rep_13,483000,Cancelled
+2025-05-28,STU_0409,Business English,Team Sigma,Rep_13,1078000,Active
+2025-05-31,STU_0410,IELTS,Team Alpha,Rep_1,1159000,Active
+2025-03-10,STU_0411,Business English,Team Alpha,Rep_6,1704000,Active
+2025-01-15,STU_0412,Business English,Team Bravo,Rep_1,652000,Active
+2025-09-25,STU_0413,Business English,Team Delta,Rep_3,1219000,Active
+2024-10-02,STU_0414,IELTS,Team Delta,Rep_12,1015000,Cancelled
+2024-12-25,STU_0415,TOEIC,Team Bravo,Rep_7,858000,Active
+2024-01-26,STU_0416,Academic Skills,Team Alpha,Rep_7,1739000,Active
+2024-10-05,STU_0417,Business English,Team Delta,Rep_4,746000,Cancelled
+2025-09-23,STU_0418,TOEIC,Team Delta,Rep_4,1415000,Active
+2025-09-09,STU_0419,TOEIC,Team Sigma,Rep_6,1272000,Active
+2025-09-22,STU_0420,Academic Skills,Team Alpha,Rep_4,1735000,Active
+2024-10-12,STU_0421,IELTS,Team Alpha,Rep_4,216000,Active
+2025-12-04,STU_0422,TOEIC,Team Sigma,Rep_9,1395000,Active
+2025-12-08,STU_0423,Kids English,Team Sigma,Rep_5,1443000,Cancelled
+2024-11-20,STU_0424,IELTS,Team Delta,Rep_10,357000,Active
+2024-02-28,STU_0425,TOEIC,Team Sigma,Rep_14,676000,Active
+2025-07-15,STU_0426,Kids English,Team Delta,Rep_8,1269000,Active
+2025-07-25,STU_0427,IELTS,Team Alpha,Rep_6,1596000,Active
+2025-09-22,STU_0428,Kids English,Team Bravo,Rep_10,717000,Active
+2025-11-12,STU_0429,Business English,Team Bravo,Rep_9,298000,Active
+2024-02-10,STU_0430,Academic Skills,Team Sigma,Rep_1,1968000,Active
+2025-09-29,STU_0431,Kids English,Team Alpha,Rep_3,1260000,Active
+2024-07-31,STU_0432,Academic Skills,Team Delta,Rep_3,479000,Active
+2025-01-15,STU_0433,Business English,Team Alpha,Rep_13,1572000,Active
+2024-02-14,STU_0434,Kids English,Team Bravo,Rep_3,696000,Active
+2024-02-21,STU_0435,TOEIC,Team Sigma,Rep_2,501000,Active
+2025-07-23,STU_0436,Academic Skills,Team Sigma,Rep_4,380000,Active
+2024-01-14,STU_0437,Kids English,Team Alpha,Rep_9,806000,Cancelled
+2024-03-28,STU_0438,Academic Skills,Team Sigma,Rep_8,1322000,Active
+2025-07-01,STU_0439,Academic Skills,Team Sigma,Rep_2,899000,Active
+2025-09-10,STU_0440,IELTS,Team Delta,Rep_15,1192000,Active
+2024-12-20,STU_0441,IELTS,Team Bravo,Rep_3,1339000,Active
+2024-04-03,STU_0442,IELTS,Team Sigma,Rep_5,390000,Active
+2024-09-11,STU_0443,TOEIC,Team Alpha,Rep_9,452000,Active
+2024-07-29,STU_0444,Business English,Team Alpha,Rep_7,1180000,Active
+2024-09-28,STU_0445,TOEIC,Team Sigma,Rep_12,1127000,Active
+2024-11-11,STU_0446,Kids English,Team Sigma,Rep_11,1384000,Active
+2024-11-05,STU_0447,Academic Skills,Team Sigma,Rep_10,1479000,Active
+2025-11-07,STU_0448,Academic Skills,Team Sigma,Rep_14,1546000,Cancelled
+2024-08-26,STU_0449,Academic Skills,Team Sigma,Rep_8,327000,Active
+2024-09-12,STU_0450,Academic Skills,Team Alpha,Rep_1,217000,Active
+2025-11-08,STU_0451,TOEIC,Team Delta,Rep_6,1958000,Active
+2025-02-23,STU_0452,IELTS,Team Bravo,Rep_1,765000,Active
+2024-08-21,STU_0453,IELTS,Team Alpha,Rep_4,769000,Active
+2024-04-15,STU_0454,Business English,Team Sigma,Rep_12,1546000,Active
+2025-07-07,STU_0455,TOEIC,Team Sigma,Rep_13,885000,Cancelled
+2025-05-28,STU_0456,Kids English,Team Sigma,Rep_3,825000,Active
+2025-11-07,STU_0457,Business English,Team Alpha,Rep_12,1511000,Active
+2025-08-15,STU_0458,IELTS,Team Alpha,Rep_3,1053000,Active
+2024-04-25,STU_0459,TOEIC,Team Alpha,Rep_8,1886000,Active
+2025-12-06,STU_0460,IELTS,Team Sigma,Rep_3,1161000,Active
+2025-02-20,STU_0461,TOEIC,Team Bravo,Rep_7,1862000,Active
+2024-02-24,STU_0462,Business English,Team Delta,Rep_2,354000,Active
+2024-12-07,STU_0463,TOEIC,Team Delta,Rep_15,689000,Cancelled
+2024-04-16,STU_0464,TOEIC,Team Delta,Rep_8,1609000,Active
+2025-03-16,STU_0465,Kids English,Team Bravo,Rep_13,984000,Active
+2024-07-27,STU_0466,Academic Skills,Team Sigma,Rep_12,1327000,Active
+2024-09-24,STU_0467,TOEIC,Team Alpha,Rep_7,1616000,Active
+2025-09-25,STU_0468,Academic Skills,Team Sigma,Rep_2,445000,Active
+2024-04-13,STU_0469,Kids English,Team Bravo,Rep_14,1399000,Active
+2024-06-25,STU_0470,Business English,Team Bravo,Rep_1,1262000,Active
+2024-12-11,STU_0471,IELTS,Team Bravo,Rep_15,1700000,Active
+2024-05-03,STU_0472,Academic Skills,Team Alpha,Rep_1,1905000,Active
+2025-04-17,STU_0473,IELTS,Team Bravo,Rep_8,958000,Active
+2024-06-14,STU_0474,Academic Skills,Team Sigma,Rep_6,737000,Cancelled
+2025-05-25,STU_0475,Academic Skills,Team Sigma,Rep_15,1120000,Active
+2024-10-26,STU_0476,Kids English,Team Delta,Rep_14,607000,Active
+2025-07-28,STU_0477,TOEIC,Team Alpha,Rep_2,724000,Active
+2024-04-27,STU_0478,IELTS,Team Delta,Rep_12,1027000,Active
+2024-03-12,STU_0479,Academic Skills,Team Delta,Rep_7,1729000,Active
+2025-07-30,STU_0480,IELTS,Team Alpha,Rep_4,1102000,Cancelled
+2025-04-12,STU_0481,Kids English,Team Alpha,Rep_9,235000,Active
+2025-08-14,STU_0482,Academic Skills,Team Bravo,Rep_10,884000,Active
+2025-06-08,STU_0483,TOEIC,Team Sigma,Rep_1,219000,Active
+2025-08-26,STU_0484,TOEIC,Team Delta,Rep_14,520000,Active
+2025-05-09,STU_0485,Kids English,Team Alpha,Rep_13,1999000,Active
+2024-12-15,STU_0486,Kids English,Team Sigma,Rep_15,711000,Active
+2025-05-28,STU_0487,Business English,Team Bravo,Rep_4,599000,Cancelled
+2024-07-28,STU_0488,Kids English,Team Alpha,Rep_12,853000,Active
+2025-06-28,STU_0489,IELTS,Team Alpha,Rep_15,1171000,Active
+2025-03-15,STU_0490,Business English,Team Bravo,Rep_15,670000,Active
+2025-05-30,STU_0491,TOEIC,Team Bravo,Rep_1,1366000,Active
+2024-09-13,STU_0492,IELTS,Team Delta,Rep_4,1315000,Active
+2024-10-03,STU_0493,TOEIC,Team Bravo,Rep_8,1577000,Active
+2024-05-31,STU_0494,Academic Skills,Team Delta,Rep_3,1033000,Active
+2025-12-19,STU_0495,IELTS,Team Alpha,Rep_12,926000,Active
+2025-09-26,STU_0496,Business English,Team Alpha,Rep_2,1053000,Active
+2024-09-08,STU_0497,Kids English,Team Sigma,Rep_5,250000,Active
+2024-05-19,STU_0498,Business English,Team Bravo,Rep_3,1888000,Cancelled
+2025-04-02,STU_0499,Academic Skills,Team Delta,Rep_4,1921000,Active
+2024-06-03,STU_0500,IELTS,Team Delta,Rep_15,774000,Active
+2025-06-24,STU_0501,Academic Skills,Team Sigma,Rep_13,1413000,Active
+2024-05-09,STU_0502,TOEIC,Team Bravo,Rep_7,1348000,Cancelled
+2025-05-12,STU_0503,Academic Skills,Team Bravo,Rep_15,349000,Cancelled
+2025-01-12,STU_0504,Business English,Team Alpha,Rep_5,513000,Active
+2024-10-19,STU_0505,Academic Skills,Team Sigma,Rep_10,769000,Active
+2024-03-17,STU_0506,Business English,Team Delta,Rep_9,1565000,Active
+2024-01-28,STU_0507,TOEIC,Team Bravo,Rep_13,504000,Active
+2024-09-28,STU_0508,IELTS,Team Bravo,Rep_7,1915000,Active
+2024-07-17,STU_0509,Academic Skills,Team Delta,Rep_13,881000,Active
+2024-04-24,STU_0510,Kids English,Team Sigma,Rep_11,1037000,Active
+2024-09-28,STU_0511,IELTS,Team Alpha,Rep_12,1277000,Active
+2025-12-31,STU_0512,Business English,Team Bravo,Rep_7,1202000,Active
+2024-06-09,STU_0513,Kids English,Team Bravo,Rep_3,643000,Active
+2024-12-28,STU_0514,IELTS,Team Delta,Rep_15,812000,Active
+2025-05-08,STU_0515,Business English,Team Delta,Rep_4,1192000,Active
+2025-08-31,STU_0516,IELTS,Team Bravo,Rep_3,463000,Active
+2024-05-14,STU_0517,Academic Skills,Team Sigma,Rep_3,1276000,Active
+2024-09-16,STU_0518,Academic Skills,Team Delta,Rep_12,1795000,Active
+2024-05-27,STU_0519,Business English,Team Alpha,Rep_13,1203000,Cancelled
+2024-01-12,STU_0520,Kids English,Team Bravo,Rep_11,1843000,Active
+2024-01-01,STU_0521,Academic Skills,Team Sigma,Rep_13,204000,Active
+2024-07-26,STU_0522,IELTS,Team Delta,Rep_1,1326000,Active
+2025-04-24,STU_0523,IELTS,Team Sigma,Rep_3,1419000,Active
+2024-01-23,STU_0524,IELTS,Team Sigma,Rep_7,973000,Active
+2024-12-17,STU_0525,Academic Skills,Team Bravo,Rep_2,1076000,Active
+2024-08-23,STU_0526,IELTS,Team Bravo,Rep_15,1191000,Cancelled
+2024-04-09,STU_0527,Kids English,Team Sigma,Rep_4,1083000,Active
+2025-09-26,STU_0528,TOEIC,Team Alpha,Rep_5,1573000,Cancelled
+2025-02-06,STU_0529,TOEIC,Team Delta,Rep_8,246000,Cancelled
+2024-01-28,STU_0530,Academic Skills,Team Sigma,Rep_11,1066000,Active
+2025-03-28,STU_0531,Kids English,Team Bravo,Rep_8,1022000,Cancelled
+2024-08-26,STU_0532,Kids English,Team Sigma,Rep_14,1135000,Active
+2025-03-01,STU_0533,Kids English,Team Delta,Rep_7,855000,Active
+2025-12-21,STU_0534,IELTS,Team Alpha,Rep_8,468000,Active
+2024-12-27,STU_0535,IELTS,Team Delta,Rep_3,569000,Cancelled
+2024-05-31,STU_0536,Academic Skills,Team Alpha,Rep_9,835000,Cancelled
+2025-07-22,STU_0537,Kids English,Team Sigma,Rep_15,1329000,Active
+2024-08-03,STU_0538,TOEIC,Team Sigma,Rep_10,1893000,Active
+2024-02-01,STU_0539,TOEIC,Team Bravo,Rep_9,1882000,Active
+2024-03-01,STU_0540,Business English,Team Delta,Rep_15,856000,Active
+2024-01-10,STU_0541,Kids English,Team Sigma,Rep_14,319000,Active
+2025-05-11,STU_0542,Academic Skills,Team Alpha,Rep_7,1030000,Active
+2024-03-27,STU_0543,IELTS,Team Bravo,Rep_10,1827000,Active
+2024-09-29,STU_0544,Business English,Team Delta,Rep_8,1281000,Active
+2025-07-17,STU_0545,Academic Skills,Team Bravo,Rep_5,1569000,Cancelled
+2024-04-09,STU_0546,Academic Skills,Team Delta,Rep_1,940000,Active
+2025-01-20,STU_0547,Academic Skills,Team Delta,Rep_10,1697000,Active
+2024-03-31,STU_0548,IELTS,Team Delta,Rep_7,316000,Active
+2024-06-15,STU_0549,Academic Skills,Team Alpha,Rep_7,990000,Cancelled
+2025-03-05,STU_0550,Business English,Team Sigma,Rep_10,1350000,Cancelled
+2024-12-04,STU_0551,TOEIC,Team Delta,Rep_12,1616000,Active
+2024-11-14,STU_0552,Academic Skills,Team Delta,Rep_1,1212000,Active
+2025-07-05,STU_0553,Business English,Team Alpha,Rep_9,1864000,Active
+2024-05-08,STU_0554,TOEIC,Team Sigma,Rep_11,1281000,Active
+2025-06-22,STU_0555,TOEIC,Team Bravo,Rep_2,833000,Active
+2025-04-22,STU_0556,IELTS,Team Delta,Rep_4,712000,Active
+2025-11-02,STU_0557,Kids English,Team Sigma,Rep_5,1974000,Active
+2024-12-03,STU_0558,Business English,Team Delta,Rep_13,1001000,Active
+2025-01-30,STU_0559,IELTS,Team Delta,Rep_15,1319000,Active
+2025-03-29,STU_0560,Business English,Team Alpha,Rep_14,1861000,Active
+2024-10-07,STU_0561,Business English,Team Bravo,Rep_5,1341000,Active
+2024-05-14,STU_0562,Business English,Team Delta,Rep_7,759000,Cancelled
+2025-06-14,STU_0563,Kids English,Team Delta,Rep_2,1824000,Active
+2024-01-24,STU_0564,Kids English,Team Delta,Rep_10,687000,Cancelled
+2024-09-06,STU_0565,IELTS,Team Sigma,Rep_6,1460000,Active
+2025-05-22,STU_0566,IELTS,Team Bravo,Rep_1,1096000,Active
+2024-08-29,STU_0567,TOEIC,Team Bravo,Rep_11,1495000,Active
+2024-11-07,STU_0568,Kids English,Team Alpha,Rep_8,1412000,Active
+2025-05-20,STU_0569,TOEIC,Team Bravo,Rep_13,903000,Active
+2024-01-25,STU_0570,TOEIC,Team Delta,Rep_5,1670000,Active
+2025-12-29,STU_0571,TOEIC,Team Alpha,Rep_5,780000,Active
+2024-04-10,STU_0572,Business English,Team Bravo,Rep_14,989000,Active
+2025-05-16,STU_0573,Academic Skills,Team Delta,Rep_11,1060000,Active
+2024-04-14,STU_0574,Business English,Team Delta,Rep_1,446000,Active
+2025-10-19,STU_0575,Academic Skills,Team Bravo,Rep_5,1299000,Active
+2024-09-18,STU_0576,Business English,Team Alpha,Rep_1,353000,Active
+2025-05-08,STU_0577,TOEIC,Team Sigma,Rep_4,1879000,Active
+2024-10-19,STU_0578,TOEIC,Team Sigma,Rep_14,1658000,Active
+2025-02-03,STU_0579,Kids English,Team Delta,Rep_13,1196000,Cancelled
+2025-06-08,STU_0580,IELTS,Team Delta,Rep_8,1309000,Active
+2025-01-17,STU_0581,Kids English,Team Sigma,Rep_5,896000,Active
+2025-10-29,STU_0582,TOEIC,Team Alpha,Rep_2,1508000,Cancelled
+2025-03-27,STU_0583,Kids English,Team Sigma,Rep_6,1443000,Active
+2025-03-15,STU_0584,Academic Skills,Team Delta,Rep_8,1292000,Active
+2024-02-03,STU_0585,TOEIC,Team Alpha,Rep_12,1270000,Active
+2024-08-24,STU_0586,Business English,Team Delta,Rep_2,1208000,Active
+2024-02-04,STU_0587,TOEIC,Team Alpha,Rep_14,293000,Active
+2025-04-23,STU_0588,Kids English,Team Bravo,Rep_4,1973000,Active
+2025-12-21,STU_0589,Academic Skills,Team Delta,Rep_10,1157000,Active
+2024-02-25,STU_0590,Business English,Team Delta,Rep_6,1211000,Active
+2024-01-04,STU_0591,Academic Skills,Team Sigma,Rep_15,652000,Cancelled
+2024-09-07,STU_0592,IELTS,Team Delta,Rep_11,1427000,Active
+2024-09-05,STU_0593,Kids English,Team Alpha,Rep_11,1111000,Active
+2024-05-23,STU_0594,IELTS,Team Delta,Rep_1,417000,Active
+2024-02-13,STU_0595,Academic Skills,Team Sigma,Rep_10,673000,Active
+2025-05-06,STU_0596,Business English,Team Alpha,Rep_6,631000,Active
+2024-11-20,STU_0597,Business English,Team Sigma,Rep_14,540000,Active
+2024-10-13,STU_0598,Kids English,Team Sigma,Rep_14,750000,Active
+2024-08-14,STU_0599,IELTS,Team Sigma,Rep_2,1835000,Cancelled
+2024-04-13,STU_0600,Business English,Team Alpha,Rep_10,1512000,Active
+2024-06-14,STU_0601,Academic Skills,Team Alpha,Rep_1,1477000,Active
+2024-01-12,STU_0602,Kids English,Team Sigma,Rep_9,1957000,Active
+2024-01-07,STU_0603,Kids English,Team Sigma,Rep_3,556000,Active
+2024-08-14,STU_0604,Kids English,Team Delta,Rep_12,222000,Active
+2024-01-13,STU_0605,IELTS,Team Delta,Rep_2,1985000,Active
+2024-10-04,STU_0606,TOEIC,Team Bravo,Rep_6,721000,Active
+2025-07-28,STU_0607,Academic Skills,Team Delta,Rep_6,1981000,Active
+2025-08-31,STU_0608,Academic Skills,Team Sigma,Rep_11,1323000,Active
+2024-08-08,STU_0609,IELTS,Team Sigma,Rep_13,1001000,Active
+2024-06-15,STU_0610,Kids English,Team Sigma,Rep_4,1403000,Active
+2025-12-26,STU_0611,Academic Skills,Team Delta,Rep_5,1446000,Active
+2024-09-06,STU_0612,Academic Skills,Team Sigma,Rep_10,961000,Active
+2024-12-29,STU_0613,Business English,Team Delta,Rep_12,1882000,Active
+2024-06-04,STU_0614,Academic Skills,Team Alpha,Rep_6,641000,Active
+2024-04-20,STU_0615,Academic Skills,Team Alpha,Rep_13,1831000,Active
+2024-09-11,STU_0616,IELTS,Team Alpha,Rep_1,968000,Active
+2025-07-13,STU_0617,TOEIC,Team Alpha,Rep_13,1215000,Active
+2024-11-24,STU_0618,Kids English,Team Sigma,Rep_15,1548000,Cancelled
+2025-08-22,STU_0619,Academic Skills,Team Sigma,Rep_8,715000,Active
+2024-08-24,STU_0620,Business English,Team Delta,Rep_1,1239000,Cancelled
+2025-07-10,STU_0621,Business English,Team Bravo,Rep_2,991000,Active
+2025-01-04,STU_0622,Academic Skills,Team Alpha,Rep_5,535000,Active
+2024-06-12,STU_0623,Business English,Team Sigma,Rep_7,1982000,Active
+2025-08-26,STU_0624,Kids English,Team Delta,Rep_10,457000,Active
+2024-02-23,STU_0625,Kids English,Team Bravo,Rep_8,696000,Active
+2025-09-02,STU_0626,Academic Skills,Team Delta,Rep_11,1095000,Active
+2025-05-08,STU_0627,IELTS,Team Bravo,Rep_7,359000,Active
+2024-06-02,STU_0628,IELTS,Team Sigma,Rep_3,1698000,Active
+2025-01-27,STU_0629,IELTS,Team Bravo,Rep_11,1051000,Active
+2025-01-17,STU_0630,Business English,Team Sigma,Rep_10,1887000,Active
+2025-01-26,STU_0631,Kids English,Team Delta,Rep_12,889000,Active
+2024-01-20,STU_0632,Academic Skills,Team Sigma,Rep_1,1898000,Active
+2025-10-14,STU_0633,Kids English,Team Sigma,Rep_9,579000,Active
+2025-04-12,STU_0634,TOEIC,Team Delta,Rep_1,1768000,Active
+2025-07-09,STU_0635,Kids English,Team Delta,Rep_4,1156000,Active
+2024-05-24,STU_0636,Academic Skills,Team Delta,Rep_2,890000,Cancelled
+2024-02-11,STU_0637,Academic Skills,Team Delta,Rep_14,1650000,Cancelled
+2024-12-31,STU_0638,Business English,Team Sigma,Rep_15,1836000,Active
+2025-12-21,STU_0639,Business English,Team Bravo,Rep_11,1491000,Active
+2024-03-07,STU_0640,TOEIC,Team Delta,Rep_8,1800000,Active
+2024-04-30,STU_0641,IELTS,Team Sigma,Rep_9,1640000,Active
+2024-08-15,STU_0642,Academic Skills,Team Alpha,Rep_8,1391000,Active
+2024-12-28,STU_0643,TOEIC,Team Sigma,Rep_5,1266000,Active
+2024-04-10,STU_0644,TOEIC,Team Sigma,Rep_10,1779000,Active
+2024-08-29,STU_0645,Kids English,Team Delta,Rep_14,484000,Cancelled
+2024-05-12,STU_0646,Kids English,Team Alpha,Rep_13,596000,Active
+2024-10-29,STU_0647,TOEIC,Team Sigma,Rep_9,211000,Active
+2025-09-11,STU_0648,TOEIC,Team Bravo,Rep_10,1830000,Active
+2025-02-21,STU_0649,TOEIC,Team Delta,Rep_8,1525000,Cancelled
+2024-07-05,STU_0650,Kids English,Team Delta,Rep_9,1476000,Active
+2024-09-13,STU_0651,TOEIC,Team Bravo,Rep_15,698000,Active
+2025-08-13,STU_0652,Business English,Team Delta,Rep_14,953000,Active
+2024-07-25,STU_0653,IELTS,Team Bravo,Rep_6,234000,Active
+2024-06-25,STU_0654,Kids English,Team Delta,Rep_5,926000,Active
+2024-10-14,STU_0655,Business English,Team Bravo,Rep_2,1048000,Active
+2024-05-15,STU_0656,Business English,Team Delta,Rep_5,289000,Active
+2025-11-20,STU_0657,Business English,Team Delta,Rep_9,975000,Active
+2024-12-18,STU_0658,IELTS,Team Sigma,Rep_4,804000,Active
+2025-10-06,STU_0659,Business English,Team Alpha,Rep_14,1169000,Active
+2024-01-13,STU_0660,Academic Skills,Team Bravo,Rep_13,1825000,Active
+2025-08-07,STU_0661,Business English,Team Alpha,Rep_2,1221000,Active
+2025-05-16,STU_0662,Kids English,Team Alpha,Rep_11,617000,Active
+2024-11-09,STU_0663,Business English,Team Bravo,Rep_6,314000,Active
+2025-08-29,STU_0664,Academic Skills,Team Bravo,Rep_7,816000,Cancelled
+2024-07-22,STU_0665,TOEIC,Team Bravo,Rep_12,1419000,Active
+2024-04-24,STU_0666,Business English,Team Bravo,Rep_1,1025000,Active
+2024-05-30,STU_0667,TOEIC,Team Delta,Rep_8,1724000,Active
+2025-08-28,STU_0668,IELTS,Team Bravo,Rep_4,1849000,Active
+2025-01-31,STU_0669,Business English,Team Bravo,Rep_12,1716000,Active
+2025-05-16,STU_0670,TOEIC,Team Alpha,Rep_5,1298000,Active
+2024-03-10,STU_0671,TOEIC,Team Alpha,Rep_6,612000,Active
+2025-03-07,STU_0672,Kids English,Team Delta,Rep_14,1599000,Active
+2025-01-29,STU_0673,Academic Skills,Team Bravo,Rep_1,1643000,Active
+2025-07-22,STU_0674,TOEIC,Team Sigma,Rep_4,928000,Active
+2025-12-30,STU_0675,Kids English,Team Alpha,Rep_14,1500000,Active
+2025-04-10,STU_0676,Kids English,Team Sigma,Rep_12,1220000,Active
+2024-11-02,STU_0677,IELTS,Team Sigma,Rep_5,960000,Active
+2024-06-09,STU_0678,Kids English,Team Sigma,Rep_4,875000,Active
+2024-01-15,STU_0679,Business English,Team Sigma,Rep_12,1617000,Cancelled
+2024-06-26,STU_0680,Academic Skills,Team Bravo,Rep_9,656000,Active
+2025-10-26,STU_0681,Kids English,Team Alpha,Rep_10,1119000,Active
+2024-07-28,STU_0682,Business English,Team Bravo,Rep_10,391000,Active
+2024-04-11,STU_0683,Academic Skills,Team Alpha,Rep_4,938000,Active
+2024-06-07,STU_0684,Kids English,Team Sigma,Rep_14,1912000,Active
+2025-05-03,STU_0685,Business English,Team Alpha,Rep_7,1322000,Active
+2024-01-13,STU_0686,IELTS,Team Delta,Rep_13,1771000,Active
+2024-12-06,STU_0687,Kids English,Team Delta,Rep_2,1177000,Active
+2024-07-19,STU_0688,TOEIC,Team Alpha,Rep_4,1208000,Active
+2025-12-09,STU_0689,Kids English,Team Bravo,Rep_4,295000,Active
+2025-11-24,STU_0690,Academic Skills,Team Alpha,Rep_4,1887000,Active
+2024-02-19,STU_0691,IELTS,Team Bravo,Rep_7,862000,Cancelled
+2025-03-26,STU_0692,TOEIC,Team Delta,Rep_9,1413000,Active
+2025-07-05,STU_0693,Business English,Team Sigma,Rep_15,1959000,Active
+2025-09-15,STU_0694,TOEIC,Team Delta,Rep_12,236000,Cancelled
+2025-03-09,STU_0695,Kids English,Team Bravo,Rep_15,1592000,Active
+2024-02-24,STU_0696,Business English,Team Delta,Rep_12,1918000,Active
+2025-12-19,STU_0697,TOEIC,Team Delta,Rep_2,1748000,Active
+2025-06-02,STU_0698,TOEIC,Team Bravo,Rep_1,478000,Active
+2024-08-20,STU_0699,IELTS,Team Alpha,Rep_1,416000,Active
+2025-06-12,STU_0700,Kids English,Team Sigma,Rep_13,1066000,Active
+2025-09-07,STU_0701,TOEIC,Team Bravo,Rep_10,1072000,Active
+2025-11-06,STU_0702,TOEIC,Team Bravo,Rep_14,1496000,Cancelled
+2024-02-17,STU_0703,TOEIC,Team Sigma,Rep_10,261000,Active
+2025-04-01,STU_0704,IELTS,Team Delta,Rep_7,795000,Active
+2025-04-22,STU_0705,TOEIC,Team Alpha,Rep_11,928000,Active
+2024-06-02,STU_0706,Business English,Team Bravo,Rep_4,1565000,Active
+2024-06-26,STU_0707,Kids English,Team Alpha,Rep_7,596000,Active
+2024-06-26,STU_0708,Academic Skills,Team Delta,Rep_4,898000,Cancelled
+2025-10-26,STU_0709,Academic Skills,Team Bravo,Rep_9,1242000,Active
+2024-10-18,STU_0710,TOEIC,Team Bravo,Rep_11,376000,Active
+2025-02-25,STU_0711,Kids English,Team Alpha,Rep_15,1835000,Active
+2025-05-23,STU_0712,IELTS,Team Sigma,Rep_4,595000,Cancelled
+2025-08-19,STU_0713,Kids English,Team Bravo,Rep_3,644000,Active
+2025-10-31,STU_0714,Business English,Team Delta,Rep_1,1456000,Active
+2024-08-14,STU_0715,Kids English,Team Delta,Rep_15,275000,Active
+2025-12-06,STU_0716,Academic Skills,Team Bravo,Rep_13,464000,Cancelled
+2025-01-24,STU_0717,IELTS,Team Bravo,Rep_7,654000,Active
+2025-01-01,STU_0718,TOEIC,Team Delta,Rep_4,917000,Cancelled
+2024-03-17,STU_0719,Kids English,Team Sigma,Rep_9,934000,Active
+2025-08-22,STU_0720,IELTS,Team Sigma,Rep_7,1607000,Active
+2025-03-03,STU_0721,TOEIC,Team Sigma,Rep_3,1787000,Active
+2024-12-08,STU_0722,Academic Skills,Team Sigma,Rep_13,1050000,Active
+2025-11-06,STU_0723,TOEIC,Team Bravo,Rep_7,1729000,Active
+2025-09-16,STU_0724,Kids English,Team Bravo,Rep_7,1590000,Active
+2025-11-05,STU_0725,TOEIC,Team Delta,Rep_15,343000,Active
+2024-03-07,STU_0726,Business English,Team Bravo,Rep_13,1084000,Active
+2025-05-05,STU_0727,Kids English,Team Bravo,Rep_11,1292000,Active
+2024-05-04,STU_0728,TOEIC,Team Sigma,Rep_3,1322000,Cancelled
+2024-08-01,STU_0729,Academic Skills,Team Sigma,Rep_15,595000,Cancelled
+2025-08-09,STU_0730,Academic Skills,Team Bravo,Rep_10,1248000,Active
+2025-05-23,STU_0731,TOEIC,Team Bravo,Rep_3,1147000,Active
+2024-08-06,STU_0732,Kids English,Team Sigma,Rep_3,1090000,Active
+2024-07-03,STU_0733,Academic Skills,Team Sigma,Rep_3,1692000,Active
+2025-11-24,STU_0734,TOEIC,Team Delta,Rep_11,1707000,Active
+2024-02-22,STU_0735,Academic Skills,Team Alpha,Rep_15,1788000,Active
+2025-01-12,STU_0736,TOEIC,Team Delta,Rep_1,1374000,Active
+2024-05-10,STU_0737,Academic Skills,Team Bravo,Rep_8,1367000,Active
+2025-05-18,STU_0738,Business English,Team Bravo,Rep_10,768000,Active
+2025-07-26,STU_0739,Business English,Team Alpha,Rep_15,1262000,Active
+2025-11-30,STU_0740,Kids English,Team Sigma,Rep_3,308000,Active
+2025-10-14,STU_0741,TOEIC,Team Sigma,Rep_1,1916000,Active
+2024-08-28,STU_0742,IELTS,Team Bravo,Rep_2,1265000,Active
+2024-08-31,STU_0743,IELTS,Team Bravo,Rep_13,1409000,Active
+2024-11-06,STU_0744,TOEIC,Team Delta,Rep_5,1134000,Active
+2025-03-25,STU_0745,IELTS,Team Sigma,Rep_12,597000,Cancelled
+2025-05-05,STU_0746,TOEIC,Team Alpha,Rep_13,1446000,Active
+2024-12-16,STU_0747,IELTS,Team Bravo,Rep_1,833000,Active
+2025-11-07,STU_0748,Kids English,Team Alpha,Rep_1,1356000,Active
+2024-04-14,STU_0749,Kids English,Team Alpha,Rep_10,1386000,Active
+2024-01-26,STU_0750,IELTS,Team Sigma,Rep_6,1438000,Active
+2024-08-28,STU_0751,IELTS,Team Delta,Rep_4,932000,Active
+2025-03-10,STU_0752,Academic Skills,Team Alpha,Rep_1,434000,Active
+2025-11-28,STU_0753,Kids English,Team Alpha,Rep_6,857000,Cancelled
+2024-02-28,STU_0754,Academic Skills,Team Bravo,Rep_9,950000,Active
+2024-08-25,STU_0755,Academic Skills,Team Delta,Rep_5,787000,Active
+2025-04-16,STU_0756,TOEIC,Team Sigma,Rep_8,1232000,Active
+2024-10-22,STU_0757,Academic Skills,Team Sigma,Rep_3,1297000,Active
+2025-06-21,STU_0758,Academic Skills,Team Sigma,Rep_3,1153000,Active
+2025-06-07,STU_0759,Academic Skills,Team Alpha,Rep_9,691000,Active
+2025-03-21,STU_0760,TOEIC,Team Sigma,Rep_15,1112000,Active
+2025-12-02,STU_0761,TOEIC,Team Delta,Rep_12,1476000,Active
+2025-09-22,STU_0762,Kids English,Team Bravo,Rep_6,1453000,Active
+2024-09-13,STU_0763,IELTS,Team Sigma,Rep_9,1742000,Active
+2025-10-05,STU_0764,IELTS,Team Sigma,Rep_2,1397000,Active
+2024-11-03,STU_0765,TOEIC,Team Sigma,Rep_13,1876000,Active
+2025-08-27,STU_0766,IELTS,Team Delta,Rep_10,1391000,Active
+2024-09-09,STU_0767,IELTS,Team Bravo,Rep_7,369000,Active
+2024-04-08,STU_0768,Business English,Team Sigma,Rep_7,1616000,Active
+2025-10-26,STU_0769,TOEIC,Team Alpha,Rep_1,1145000,Active
+2025-08-17,STU_0770,Business English,Team Alpha,Rep_1,994000,Cancelled
+2024-06-13,STU_0771,TOEIC,Team Bravo,Rep_7,833000,Active
+2025-10-03,STU_0772,IELTS,Team Sigma,Rep_7,1417000,Active
+2025-05-26,STU_0773,Academic Skills,Team Bravo,Rep_6,1740000,Active
+2025-02-27,STU_0774,Business English,Team Bravo,Rep_1,228000,Active
+2025-09-05,STU_0775,Kids English,Team Delta,Rep_8,1388000,Cancelled
+2025-02-07,STU_0776,Business English,Team Sigma,Rep_10,1645000,Cancelled
+2025-03-11,STU_0777,Business English,Team Sigma,Rep_11,538000,Active
+2025-08-03,STU_0778,IELTS,Team Delta,Rep_11,1871000,Active
+2024-04-23,STU_0779,Academic Skills,Team Delta,Rep_1,1719000,Active
+2024-04-21,STU_0780,Kids English,Team Delta,Rep_9,1588000,Cancelled
+2024-05-08,STU_0781,TOEIC,Team Bravo,Rep_4,1565000,Active
+2025-07-14,STU_0782,IELTS,Team Alpha,Rep_5,699000,Active
+2025-06-15,STU_0783,Business English,Team Bravo,Rep_14,1880000,Active
+2025-08-04,STU_0784,Academic Skills,Team Delta,Rep_9,710000,Active
+2024-04-06,STU_0785,TOEIC,Team Delta,Rep_15,1550000,Active
+2024-02-18,STU_0786,TOEIC,Team Alpha,Rep_11,416000,Active
+2024-09-16,STU_0787,IELTS,Team Sigma,Rep_5,1524000,Active
+2025-12-05,STU_0788,Kids English,Team Delta,Rep_15,1355000,Active
+2024-06-29,STU_0789,TOEIC,Team Sigma,Rep_3,1293000,Active
+2024-09-01,STU_0790,Academic Skills,Team Bravo,Rep_9,1475000,Active
+2025-09-01,STU_0791,Kids English,Team Bravo,Rep_3,1638000,Active
+2025-09-28,STU_0792,Academic Skills,Team Bravo,Rep_5,644000,Active
+2024-10-20,STU_0793,Business English,Team Sigma,Rep_7,1075000,Active
+2024-07-24,STU_0794,Business English,Team Bravo,Rep_14,1405000,Active
+2025-04-29,STU_0795,IELTS,Team Alpha,Rep_14,366000,Active
+2025-07-08,STU_0796,Business English,Team Delta,Rep_15,290000,Active
+2024-04-30,STU_0797,Business English,Team Delta,Rep_4,913000,Active
+2025-10-03,STU_0798,Business English,Team Sigma,Rep_6,1754000,Active
+2024-08-19,STU_0799,Academic Skills,Team Bravo,Rep_12,238000,Active
+2025-03-15,STU_0800,TOEIC,Team Alpha,Rep_1,1349000,Active
+2025-01-07,STU_0801,Academic Skills,Team Delta,Rep_13,1674000,Active
+2025-07-27,STU_0802,TOEIC,Team Delta,Rep_6,372000,Active
+2025-11-27,STU_0803,TOEIC,Team Alpha,Rep_9,852000,Active
+2025-01-11,STU_0804,IELTS,Team Bravo,Rep_9,953000,Active
+2024-01-11,STU_0805,Kids English,Team Sigma,Rep_3,1443000,Active
+2025-09-04,STU_0806,Academic Skills,Team Sigma,Rep_13,1861000,Active
+2025-02-17,STU_0807,TOEIC,Team Delta,Rep_8,1281000,Active
+2025-04-20,STU_0808,IELTS,Team Delta,Rep_9,1883000,Active
+2024-06-12,STU_0809,Kids English,Team Bravo,Rep_2,675000,Active
+2025-07-22,STU_0810,TOEIC,Team Sigma,Rep_11,655000,Active
+2024-06-09,STU_0811,IELTS,Team Sigma,Rep_14,1028000,Active
+2025-03-20,STU_0812,Academic Skills,Team Bravo,Rep_10,1094000,Active
+2025-08-20,STU_0813,Business English,Team Alpha,Rep_11,1584000,Active
+2024-11-08,STU_0814,TOEIC,Team Bravo,Rep_2,1224000,Active
+2024-11-19,STU_0815,TOEIC,Team Alpha,Rep_3,586000,Active
+2024-09-29,STU_0816,IELTS,Team Bravo,Rep_11,547000,Active
+2025-09-07,STU_0817,TOEIC,Team Bravo,Rep_7,389000,Active
+2024-06-01,STU_0818,TOEIC,Team Bravo,Rep_15,704000,Cancelled
+2025-01-15,STU_0819,Academic Skills,Team Sigma,Rep_7,1414000,Cancelled
+2024-02-24,STU_0820,Kids English,Team Delta,Rep_1,1731000,Active
+2025-07-24,STU_0821,IELTS,Team Sigma,Rep_6,1592000,Active
+2024-02-11,STU_0822,Kids English,Team Delta,Rep_10,1632000,Active
+2025-07-17,STU_0823,IELTS,Team Bravo,Rep_1,1023000,Active
+2024-02-01,STU_0824,Kids English,Team Sigma,Rep_3,1128000,Active
+2025-07-12,STU_0825,IELTS,Team Delta,Rep_3,1133000,Active
+2025-09-02,STU_0826,Business English,Team Delta,Rep_8,1340000,Active
+2025-09-30,STU_0827,IELTS,Team Delta,Rep_11,333000,Active
+2025-02-08,STU_0828,Kids English,Team Sigma,Rep_2,257000,Active
+2024-03-09,STU_0829,Academic Skills,Team Delta,Rep_4,1779000,Active
+2025-03-08,STU_0830,Business English,Team Sigma,Rep_14,884000,Active
+2025-03-05,STU_0831,Academic Skills,Team Delta,Rep_13,871000,Active
+2024-12-11,STU_0832,IELTS,Team Bravo,Rep_8,372000,Active
+2024-09-24,STU_0833,TOEIC,Team Delta,Rep_12,1014000,Active
+2024-10-01,STU_0834,Kids English,Team Alpha,Rep_7,1372000,Active
+2025-10-25,STU_0835,Academic Skills,Team Alpha,Rep_3,279000,Active
+2024-01-11,STU_0836,Kids English,Team Delta,Rep_4,1085000,Active
+2025-12-04,STU_0837,Academic Skills,Team Alpha,Rep_8,1436000,Active
+2024-06-25,STU_0838,Kids English,Team Bravo,Rep_12,402000,Active
+2025-08-05,STU_0839,Kids English,Team Bravo,Rep_5,963000,Cancelled
+2025-03-10,STU_0840,TOEIC,Team Delta,Rep_8,1452000,Active
+2025-08-30,STU_0841,IELTS,Team Delta,Rep_5,1899000,Active
+2025-12-02,STU_0842,Academic Skills,Team Alpha,Rep_14,1450000,Cancelled
+2024-10-07,STU_0843,IELTS,Team Alpha,Rep_7,1882000,Active
+2024-01-18,STU_0844,TOEIC,Team Alpha,Rep_4,1755000,Active
+2024-03-27,STU_0845,Academic Skills,Team Delta,Rep_8,1664000,Active
+2024-08-19,STU_0846,IELTS,Team Delta,Rep_4,1625000,Active
+2024-09-22,STU_0847,Business English,Team Delta,Rep_12,246000,Active
+2025-05-24,STU_0848,TOEIC,Team Delta,Rep_13,1456000,Active
+2025-12-13,STU_0849,Kids English,Team Bravo,Rep_14,1528000,Active
+2024-04-18,STU_0850,IELTS,Team Bravo,Rep_10,1749000,Active
+2025-04-27,STU_0851,Academic Skills,Team Delta,Rep_4,1366000,Active
+2024-07-23,STU_0852,TOEIC,Team Delta,Rep_13,1638000,Active
+2025-05-12,STU_0853,IELTS,Team Bravo,Rep_11,1736000,Active
+2024-12-29,STU_0854,Kids English,Team Delta,Rep_7,1596000,Active
+2025-12-13,STU_0855,TOEIC,Team Sigma,Rep_15,1789000,Active
+2024-03-10,STU_0856,Academic Skills,Team Alpha,Rep_13,1482000,Active
+2025-12-28,STU_0857,Academic Skills,Team Bravo,Rep_5,855000,Active
+2025-04-27,STU_0858,TOEIC,Team Delta,Rep_3,670000,Active
+2025-11-09,STU_0859,Kids English,Team Bravo,Rep_5,1170000,Active
+2024-06-12,STU_0860,Academic Skills,Team Bravo,Rep_13,1235000,Cancelled
+2024-02-07,STU_0861,Business English,Team Sigma,Rep_5,1553000,Active
+2025-04-26,STU_0862,Business English,Team Sigma,Rep_11,935000,Active
+2024-12-15,STU_0863,Kids English,Team Sigma,Rep_14,983000,Active
+2025-10-10,STU_0864,Business English,Team Delta,Rep_1,1167000,Active
+2024-04-29,STU_0865,IELTS,Team Delta,Rep_9,557000,Active
+2025-03-24,STU_0866,Academic Skills,Team Alpha,Rep_8,1171000,Cancelled
+2025-10-12,STU_0867,Business English,Team Bravo,Rep_1,1631000,Active
+2024-09-11,STU_0868,IELTS,Team Alpha,Rep_8,867000,Active
+2025-12-08,STU_0869,Academic Skills,Team Bravo,Rep_2,572000,Active
+2025-06-11,STU_0870,Kids English,Team Sigma,Rep_8,1231000,Active
+2025-02-26,STU_0871,TOEIC,Team Bravo,Rep_8,1345000,Active
+2025-10-15,STU_0872,Kids English,Team Bravo,Rep_12,1571000,Active
+2024-03-13,STU_0873,IELTS,Team Delta,Rep_1,875000,Active
+2024-03-04,STU_0874,TOEIC,Team Sigma,Rep_3,289000,Active
+2024-12-20,STU_0875,IELTS,Team Alpha,Rep_2,1871000,Active
+2025-01-01,STU_0876,Kids English,Team Alpha,Rep_11,897000,Cancelled
+2025-11-24,STU_0877,Academic Skills,Team Bravo,Rep_2,1539000,Active
+2024-09-23,STU_0878,Business English,Team Bravo,Rep_8,1401000,Active
+2024-12-21,STU_0879,Kids English,Team Delta,Rep_7,739000,Active
+2024-08-02,STU_0880,Academic Skills,Team Sigma,Rep_7,931000,Active
+2024-10-11,STU_0881,TOEIC,Team Sigma,Rep_8,1068000,Cancelled
+2024-10-01,STU_0882,Business English,Team Delta,Rep_7,240000,Active
+2024-11-09,STU_0883,TOEIC,Team Delta,Rep_10,939000,Active
+2024-09-14,STU_0884,Academic Skills,Team Bravo,Rep_10,1927000,Cancelled
+2024-11-30,STU_0885,Business English,Team Sigma,Rep_6,701000,Active
+2025-04-08,STU_0886,TOEIC,Team Sigma,Rep_5,1158000,Cancelled
+2024-05-29,STU_0887,TOEIC,Team Delta,Rep_13,1368000,Active
+2025-04-24,STU_0888,Business English,Team Alpha,Rep_9,1424000,Active
+2024-06-07,STU_0889,Business English,Team Bravo,Rep_5,1128000,Active
+2025-06-18,STU_0890,Academic Skills,Team Alpha,Rep_4,1947000,Active
+2024-10-04,STU_0891,IELTS,Team Bravo,Rep_2,660000,Cancelled
+2025-12-05,STU_0892,Academic Skills,Team Sigma,Rep_11,931000,Active
+2024-04-11,STU_0893,Kids English,Team Sigma,Rep_14,951000,Active
+2025-04-04,STU_0894,IELTS,Team Sigma,Rep_6,1124000,Active
+2025-07-31,STU_0895,Business English,Team Alpha,Rep_6,1108000,Active
+2025-06-25,STU_0896,Academic Skills,Team Bravo,Rep_11,1781000,Active
+2024-07-08,STU_0897,IELTS,Team Bravo,Rep_6,1770000,Cancelled
+2024-07-29,STU_0898,Academic Skills,Team Bravo,Rep_14,1476000,Active
+2025-07-07,STU_0899,IELTS,Team Delta,Rep_4,589000,Active
+2025-05-20,STU_0900,TOEIC,Team Alpha,Rep_11,1817000,Active
+2024-05-17,STU_0901,Kids English,Team Sigma,Rep_1,1082000,Active
+2024-09-13,STU_0902,Business English,Team Alpha,Rep_1,455000,Active
+2024-04-17,STU_0903,Academic Skills,Team Sigma,Rep_4,908000,Active
+2024-01-12,STU_0904,Academic Skills,Team Delta,Rep_2,649000,Cancelled
+2025-07-21,STU_0905,TOEIC,Team Bravo,Rep_1,209000,Active
+2024-08-05,STU_0906,IELTS,Team Delta,Rep_13,1023000,Active
+2024-05-16,STU_0907,TOEIC,Team Sigma,Rep_10,997000,Active
+2024-03-01,STU_0908,Academic Skills,Team Bravo,Rep_9,1465000,Cancelled
+2025-02-06,STU_0909,Kids English,Team Alpha,Rep_9,1474000,Active
+2024-07-30,STU_0910,TOEIC,Team Bravo,Rep_7,1076000,Active
+2024-05-19,STU_0911,Kids English,Team Sigma,Rep_6,1228000,Active
+2025-06-22,STU_0912,Kids English,Team Sigma,Rep_13,1342000,Active
+2024-11-11,STU_0913,IELTS,Team Bravo,Rep_12,1215000,Active
+2025-08-03,STU_0914,Kids English,Team Alpha,Rep_4,573000,Active
+2025-03-31,STU_0915,IELTS,Team Delta,Rep_4,1288000,Active
+2025-05-03,STU_0916,Business English,Team Delta,Rep_9,345000,Active
+2024-01-22,STU_0917,Academic Skills,Team Delta,Rep_2,423000,Cancelled
+2025-02-28,STU_0918,IELTS,Team Alpha,Rep_5,1462000,Active
+2024-11-15,STU_0919,Academic Skills,Team Alpha,Rep_14,376000,Active
+2024-07-29,STU_0920,TOEIC,Team Sigma,Rep_1,1052000,Active
+2025-10-12,STU_0921,Kids English,Team Bravo,Rep_15,1505000,Active
+2024-11-19,STU_0922,Business English,Team Delta,Rep_2,262000,Active
+2024-06-02,STU_0923,TOEIC,Team Bravo,Rep_9,1440000,Active
+2025-07-20,STU_0924,TOEIC,Team Alpha,Rep_6,1026000,Active
+2025-06-04,STU_0925,IELTS,Team Delta,Rep_11,994000,Active
+2025-12-03,STU_0926,Kids English,Team Sigma,Rep_12,888000,Active
+2024-07-29,STU_0927,IELTS,Team Alpha,Rep_3,1684000,Active
+2025-07-19,STU_0928,IELTS,Team Bravo,Rep_8,1833000,Active
+2024-10-11,STU_0929,Kids English,Team Sigma,Rep_5,304000,Active
+2025-09-09,STU_0930,Academic Skills,Team Sigma,Rep_10,1322000,Active
+2025-01-22,STU_0931,TOEIC,Team Delta,Rep_2,710000,Active
+2025-11-08,STU_0932,Business English,Team Delta,Rep_13,584000,Active
+2025-04-12,STU_0933,TOEIC,Team Sigma,Rep_9,604000,Active
+2025-11-19,STU_0934,IELTS,Team Alpha,Rep_11,1022000,Active
+2025-08-08,STU_0935,Business English,Team Sigma,Rep_13,717000,Active
+2024-09-04,STU_0936,Kids English,Team Delta,Rep_1,675000,Active
+2024-02-20,STU_0937,IELTS,Team Bravo,Rep_9,908000,Cancelled
+2024-05-25,STU_0938,TOEIC,Team Bravo,Rep_2,1868000,Cancelled
+2024-08-22,STU_0939,Academic Skills,Team Sigma,Rep_4,970000,Cancelled
+2024-10-27,STU_0940,TOEIC,Team Sigma,Rep_6,1660000,Active
+2025-08-04,STU_0941,Kids English,Team Bravo,Rep_5,1246000,Active
+2025-03-17,STU_0942,IELTS,Team Sigma,Rep_8,1196000,Cancelled
+2024-05-08,STU_0943,TOEIC,Team Delta,Rep_9,1788000,Active
+2024-05-24,STU_0944,TOEIC,Team Bravo,Rep_2,876000,Active
+2024-10-12,STU_0945,Business English,Team Alpha,Rep_2,913000,Active
+2025-01-30,STU_0946,Kids English,Team Delta,Rep_5,1681000,Active
+2025-02-10,STU_0947,IELTS,Team Bravo,Rep_12,282000,Cancelled
+2025-10-19,STU_0948,IELTS,Team Bravo,Rep_9,1368000,Active
+2025-11-30,STU_0949,Business English,Team Bravo,Rep_12,1308000,Active
+2025-01-31,STU_0950,TOEIC,Team Sigma,Rep_13,1301000,Active
+2025-01-25,STU_0951,Kids English,Team Alpha,Rep_15,656000,Active
+2024-08-15,STU_0952,IELTS,Team Sigma,Rep_5,200000,Active
+2025-07-15,STU_0953,Business English,Team Delta,Rep_7,250000,Active
+2025-01-16,STU_0954,TOEIC,Team Delta,Rep_1,884000,Active
+2024-09-11,STU_0955,TOEIC,Team Sigma,Rep_8,916000,Cancelled
+2024-06-10,STU_0956,Kids English,Team Bravo,Rep_9,1995000,Active
+2024-12-31,STU_0957,Kids English,Team Delta,Rep_4,1669000,Active
+2025-11-13,STU_0958,Academic Skills,Team Alpha,Rep_5,648000,Active
+2025-12-30,STU_0959,Business English,Team Delta,Rep_4,1080000,Active
+2025-07-30,STU_0960,IELTS,Team Delta,Rep_13,687000,Active
+2025-06-27,STU_0961,Academic Skills,Team Delta,Rep_1,233000,Active
+2025-07-04,STU_0962,IELTS,Team Delta,Rep_12,1571000,Active
+2024-12-11,STU_0963,Business English,Team Bravo,Rep_7,294000,Active
+2025-03-25,STU_0964,IELTS,Team Delta,Rep_5,1295000,Cancelled
+2025-01-06,STU_0965,Business English,Team Alpha,Rep_3,1774000,Active
+2024-03-11,STU_0966,TOEIC,Team Delta,Rep_9,353000,Active
+2024-12-19,STU_0967,TOEIC,Team Sigma,Rep_1,449000,Active
+2024-11-05,STU_0968,Kids English,Team Bravo,Rep_14,873000,Active
+2025-01-25,STU_0969,Kids English,Team Delta,Rep_7,637000,Active
+2024-09-05,STU_0970,TOEIC,Team Bravo,Rep_11,317000,Cancelled
+2025-05-01,STU_0971,Kids English,Team Alpha,Rep_3,970000,Cancelled
+2025-04-01,STU_0972,IELTS,Team Bravo,Rep_12,1529000,Active
+2025-12-24,STU_0973,Academic Skills,Team Sigma,Rep_13,467000,Cancelled
+2024-08-17,STU_0974,IELTS,Team Bravo,Rep_8,1277000,Active
+2024-01-08,STU_0975,Kids English,Team Sigma,Rep_15,435000,Active
+2024-08-23,STU_0976,Business English,Team Alpha,Rep_6,588000,Active
+2024-10-31,STU_0977,Business English,Team Bravo,Rep_12,1189000,Cancelled
+2024-01-28,STU_0978,Business English,Team Bravo,Rep_4,1957000,Active
+2025-11-05,STU_0979,Business English,Team Bravo,Rep_3,962000,Active
+2024-01-29,STU_0980,TOEIC,Team Sigma,Rep_4,600000,Active
+2024-03-05,STU_0981,Academic Skills,Team Delta,Rep_8,823000,Active
+2024-11-06,STU_0982,TOEIC,Team Sigma,Rep_7,966000,Active
+2024-04-14,STU_0983,Kids English,Team Delta,Rep_15,1526000,Cancelled
+2024-11-19,STU_0984,TOEIC,Team Alpha,Rep_9,1118000,Active
+2024-04-07,STU_0985,TOEIC,Team Alpha,Rep_12,1430000,Active
+2024-11-12,STU_0986,Academic Skills,Team Alpha,Rep_10,1452000,Cancelled
+2025-06-06,STU_0987,Academic Skills,Team Delta,Rep_14,1052000,Active
+2024-07-22,STU_0988,Kids English,Team Bravo,Rep_6,777000,Cancelled
+2025-03-01,STU_0989,TOEIC,Team Alpha,Rep_8,274000,Active
+2024-01-02,STU_0990,TOEIC,Team Alpha,Rep_5,634000,Active
+2025-07-02,STU_0991,TOEIC,Team Sigma,Rep_11,302000,Active
+2024-04-07,STU_0992,Academic Skills,Team Delta,Rep_12,1645000,Cancelled
+2024-09-09,STU_0993,TOEIC,Team Delta,Rep_12,1927000,Active
+2025-06-02,STU_0994,Kids English,Team Delta,Rep_12,963000,Active
+2024-06-30,STU_0995,Academic Skills,Team Alpha,Rep_9,937000,Active
+2025-11-30,STU_0996,Kids English,Team Alpha,Rep_12,1005000,Active
+2025-03-11,STU_0997,Business English,Team Bravo,Rep_4,1529000,Active
+2025-09-16,STU_0998,Business English,Team Bravo,Rep_7,297000,Active
+2024-02-29,STU_0999,Academic Skills,Team Sigma,Rep_15,997000,Cancelled
+2024-02-21,STU_1000,Academic Skills,Team Alpha,Rep_10,1558000,Active
+2024-08-07,STU_1001,IELTS,Team Sigma,Rep_11,1058000,Active
+2025-07-13,STU_1002,Kids English,Team Sigma,Rep_5,634000,Active
+2024-10-09,STU_1003,TOEIC,Team Bravo,Rep_15,646000,Cancelled
+2025-02-12,STU_1004,Academic Skills,Team Bravo,Rep_1,1531000,Active
+2025-12-01,STU_1005,Business English,Team Alpha,Rep_3,448000,Active
+2025-03-22,STU_1006,IELTS,Team Alpha,Rep_4,365000,Active
+2025-12-29,STU_1007,TOEIC,Team Sigma,Rep_14,1704000,Active
+2024-03-24,STU_1008,Business English,Team Sigma,Rep_3,1183000,Active
+2025-12-05,STU_1009,IELTS,Team Alpha,Rep_13,1558000,Active
+2025-04-20,STU_1010,Business English,Team Sigma,Rep_14,1219000,Active
+2025-08-23,STU_1011,IELTS,Team Sigma,Rep_1,741000,Active
+2025-10-24,STU_1012,IELTS,Team Alpha,Rep_13,958000,Active
+2025-11-12,STU_1013,Academic Skills,Team Bravo,Rep_11,1329000,Active
+2025-08-10,STU_1014,TOEIC,Team Sigma,Rep_11,1786000,Active
+2025-08-16,STU_1015,Business English,Team Sigma,Rep_6,280000,Active
+2025-10-31,STU_1016,Academic Skills,Team Sigma,Rep_9,332000,Active
+2025-08-24,STU_1017,TOEIC,Team Alpha,Rep_13,996000,Active
+2024-09-16,STU_1018,IELTS,Team Alpha,Rep_12,1099000,Active
+2024-12-12,STU_1019,Business English,Team Bravo,Rep_1,337000,Active
+2024-07-16,STU_1020,IELTS,Team Bravo,Rep_8,383000,Active
+2024-09-15,STU_1021,Business English,Team Bravo,Rep_15,1624000,Active
+2024-03-18,STU_1022,IELTS,Team Alpha,Rep_7,1553000,Active
+2024-04-04,STU_1023,IELTS,Team Alpha,Rep_13,984000,Active
+2024-01-10,STU_1024,TOEIC,Team Sigma,Rep_4,1731000,Active
+2025-03-08,STU_1025,IELTS,Team Delta,Rep_4,1183000,Active
+2024-08-11,STU_1026,Kids English,Team Alpha,Rep_5,268000,Active
+2024-02-17,STU_1027,TOEIC,Team Alpha,Rep_13,745000,Active
+2024-11-07,STU_1028,Academic Skills,Team Alpha,Rep_5,1997000,Active
+2024-05-06,STU_1029,TOEIC,Team Alpha,Rep_9,252000,Cancelled
+2025-10-23,STU_1030,Business English,Team Sigma,Rep_3,1673000,Active
+2024-03-17,STU_1031,Academic Skills,Team Alpha,Rep_13,404000,Active
+2025-05-04,STU_1032,IELTS,Team Bravo,Rep_14,325000,Active
+2024-10-29,STU_1033,IELTS,Team Bravo,Rep_5,1970000,Active
+2024-12-20,STU_1034,Kids English,Team Delta,Rep_4,242000,Active
+2025-04-23,STU_1035,Business English,Team Delta,Rep_3,1975000,Active
+2024-03-24,STU_1036,Business English,Team Delta,Rep_1,310000,Active
+2025-05-02,STU_1037,Kids English,Team Delta,Rep_1,960000,Cancelled
+2024-08-31,STU_1038,Business English,Team Sigma,Rep_5,1886000,Active
+2024-03-19,STU_1039,Academic Skills,Team Delta,Rep_2,1406000,Active
+2024-06-27,STU_1040,Business English,Team Delta,Rep_15,1047000,Active
+2025-08-13,STU_1041,IELTS,Team Sigma,Rep_11,294000,Active
+2025-07-06,STU_1042,Kids English,Team Sigma,Rep_4,1597000,Active
+2025-01-24,STU_1043,IELTS,Team Sigma,Rep_1,1743000,Active
+2025-09-18,STU_1044,IELTS,Team Sigma,Rep_1,1099000,Active
+2025-06-16,STU_1045,Kids English,Team Alpha,Rep_6,559000,Active
+2024-01-19,STU_1046,IELTS,Team Delta,Rep_4,1099000,Active
+2025-11-13,STU_1047,Academic Skills,Team Delta,Rep_14,1919000,Active
+2025-10-31,STU_1048,IELTS,Team Alpha,Rep_12,480000,Active
+2024-06-03,STU_1049,Academic Skills,Team Delta,Rep_5,1418000,Cancelled
+2025-03-26,STU_1050,Kids English,Team Bravo,Rep_14,1418000,Cancelled
+2025-04-18,STU_1051,Business English,Team Bravo,Rep_11,866000,Active
+2024-06-10,STU_1052,Academic Skills,Team Sigma,Rep_5,292000,Active
+2025-01-05,STU_1053,Academic Skills,Team Bravo,Rep_10,871000,Active
+2025-07-11,STU_1054,Academic Skills,Team Delta,Rep_14,260000,Active
+2024-09-13,STU_1055,Business English,Team Bravo,Rep_2,833000,Cancelled
+2024-07-20,STU_1056,Kids English,Team Bravo,Rep_15,1274000,Active
+2025-04-30,STU_1057,TOEIC,Team Delta,Rep_14,1626000,Active
+2025-02-25,STU_1058,Academic Skills,Team Delta,Rep_2,1228000,Active
+2025-12-20,STU_1059,Kids English,Team Bravo,Rep_15,1689000,Active
+2025-11-16,STU_1060,IELTS,Team Bravo,Rep_12,803000,Active
+2025-11-12,STU_1061,IELTS,Team Sigma,Rep_1,881000,Cancelled
+2025-07-27,STU_1062,Business English,Team Bravo,Rep_14,733000,Active
+2024-12-31,STU_1063,Business English,Team Sigma,Rep_14,1628000,Active
+2025-11-18,STU_1064,TOEIC,Team Sigma,Rep_12,1037000,Cancelled
+2024-08-19,STU_1065,IELTS,Team Delta,Rep_11,1736000,Active
+2024-01-26,STU_1066,IELTS,Team Bravo,Rep_6,844000,Active
+2025-06-03,STU_1067,Kids English,Team Bravo,Rep_14,432000,Active
+2025-06-06,STU_1068,Business English,Team Alpha,Rep_11,723000,Active
+2024-09-28,STU_1069,Academic Skills,Team Bravo,Rep_11,545000,Cancelled
+2024-02-01,STU_1070,IELTS,Team Sigma,Rep_4,1269000,Active
+2025-06-17,STU_1071,Business English,Team Bravo,Rep_1,745000,Cancelled
+2024-01-30,STU_1072,Kids English,Team Delta,Rep_6,1301000,Active
+2025-12-11,STU_1073,IELTS,Team Sigma,Rep_15,1953000,Cancelled
+2025-08-12,STU_1074,Kids English,Team Bravo,Rep_5,1296000,Active
+2024-01-24,STU_1075,Business English,Team Bravo,Rep_5,993000,Active
+2024-06-10,STU_1076,Business English,Team Sigma,Rep_1,448000,Active
+2024-03-02,STU_1077,Business English,Team Bravo,Rep_3,246000,Cancelled
+2024-06-20,STU_1078,Kids English,Team Delta,Rep_2,1344000,Active
+2024-10-08,STU_1079,TOEIC,Team Sigma,Rep_14,413000,Active
+2025-01-01,STU_1080,Business English,Team Alpha,Rep_5,438000,Active
+2024-12-14,STU_1081,Academic Skills,Team Bravo,Rep_9,1279000,Active
+2024-06-09,STU_1082,Business English,Team Sigma,Rep_10,549000,Cancelled
+2025-05-30,STU_1083,Kids English,Team Bravo,Rep_11,306000,Active
+2025-05-08,STU_1084,TOEIC,Team Alpha,Rep_12,1030000,Active
+2025-11-25,STU_1085,Business English,Team Bravo,Rep_9,247000,Active
+2025-11-25,STU_1086,Kids English,Team Alpha,Rep_15,1796000,Active
+2025-08-23,STU_1087,Business English,Team Alpha,Rep_7,536000,Active
+2024-12-14,STU_1088,TOEIC,Team Sigma,Rep_11,1249000,Active
+2024-09-30,STU_1089,Kids English,Team Delta,Rep_15,1003000,Active
+2024-11-24,STU_1090,TOEIC,Team Sigma,Rep_7,1480000,Active
+2024-10-05,STU_1091,Academic Skills,Team Delta,Rep_8,207000,Active
+2024-01-20,STU_1092,Kids English,Team Delta,Rep_2,824000,Active
+2025-03-21,STU_1093,Academic Skills,Team Delta,Rep_14,1476000,Active
+2024-04-28,STU_1094,TOEIC,Team Sigma,Rep_13,1915000,Active
+2025-01-29,STU_1095,Business English,Team Delta,Rep_12,918000,Active
+2024-03-11,STU_1096,IELTS,Team Delta,Rep_12,502000,Cancelled
+2025-09-09,STU_1097,IELTS,Team Bravo,Rep_10,838000,Cancelled
+2024-05-30,STU_1098,TOEIC,Team Sigma,Rep_11,255000,Active
+2024-10-15,STU_1099,Academic Skills,Team Bravo,Rep_6,925000,Active
+2024-04-13,STU_1100,IELTS,Team Sigma,Rep_13,725000,Cancelled
+2024-01-31,STU_1101,Business English,Team Bravo,Rep_1,673000,Active
+2024-12-23,STU_1102,Academic Skills,Team Alpha,Rep_3,227000,Active
+2025-12-14,STU_1103,IELTS,Team Bravo,Rep_12,277000,Active
+2024-07-22,STU_1104,Academic Skills,Team Alpha,Rep_1,1439000,Active
+2025-08-23,STU_1105,Business English,Team Delta,Rep_4,1609000,Active
+2024-02-02,STU_1106,TOEIC,Team Sigma,Rep_7,564000,Active
+2024-09-26,STU_1107,Kids English,Team Delta,Rep_9,865000,Cancelled
+2024-07-08,STU_1108,TOEIC,Team Delta,Rep_5,725000,Cancelled
+2025-06-27,STU_1109,Business English,Team Delta,Rep_6,898000,Active
+2025-05-24,STU_1110,Business English,Team Alpha,Rep_14,1535000,Active
+2025-11-09,STU_1111,Business English,Team Delta,Rep_15,1082000,Active
+2025-05-08,STU_1112,IELTS,Team Delta,Rep_1,1230000,Active
+2024-03-14,STU_1113,Business English,Team Delta,Rep_6,1226000,Active
+2024-01-10,STU_1114,IELTS,Team Alpha,Rep_15,1846000,Active
+2024-04-27,STU_1115,IELTS,Team Alpha,Rep_2,1118000,Cancelled
+2024-02-01,STU_1116,TOEIC,Team Alpha,Rep_1,949000,Active
+2025-03-22,STU_1117,IELTS,Team Sigma,Rep_2,562000,Active
+2024-05-13,STU_1118,Academic Skills,Team Delta,Rep_13,1974000,Cancelled
+2025-10-11,STU_1119,Business English,Team Delta,Rep_6,1731000,Active
+2025-05-21,STU_1120,Kids English,Team Sigma,Rep_5,1497000,Active
+2024-12-15,STU_1121,Kids English,Team Delta,Rep_12,1729000,Active
+2024-10-22,STU_1122,Kids English,Team Delta,Rep_10,1005000,Active
+2025-08-27,STU_1123,Business English,Team Delta,Rep_3,938000,Active
+2024-05-08,STU_1124,Kids English,Team Bravo,Rep_4,1238000,Active
+2024-08-02,STU_1125,Academic Skills,Team Sigma,Rep_4,1415000,Active
+2024-05-24,STU_1126,Business English,Team Sigma,Rep_2,1854000,Cancelled
+2024-06-08,STU_1127,Kids English,Team Sigma,Rep_14,684000,Active
+2025-10-02,STU_1128,Business English,Team Sigma,Rep_11,227000,Active
+2024-04-17,STU_1129,Kids English,Team Sigma,Rep_7,913000,Active
+2025-09-08,STU_1130,Kids English,Team Delta,Rep_12,1262000,Active
+2025-10-02,STU_1131,IELTS,Team Delta,Rep_4,1496000,Active
+2025-06-18,STU_1132,TOEIC,Team Delta,Rep_4,1454000,Active
+2025-09-12,STU_1133,Business English,Team Delta,Rep_15,285000,Active
+2024-02-11,STU_1134,Academic Skills,Team Sigma,Rep_9,1697000,Active
+2024-11-11,STU_1135,Kids English,Team Delta,Rep_8,325000,Active
+2024-01-04,STU_1136,IELTS,Team Sigma,Rep_7,1011000,Active
+2024-02-16,STU_1137,Business English,Team Alpha,Rep_14,736000,Active
+2025-02-15,STU_1138,TOEIC,Team Bravo,Rep_7,344000,Cancelled
+2025-11-16,STU_1139,Academic Skills,Team Delta,Rep_6,1748000,Active
+2025-02-21,STU_1140,Kids English,Team Bravo,Rep_4,1435000,Active
+2024-08-02,STU_1141,Business English,Team Alpha,Rep_10,224000,Active
+2025-08-05,STU_1142,Business English,Team Sigma,Rep_1,1803000,Active
+2024-03-28,STU_1143,IELTS,Team Bravo,Rep_13,1617000,Active
+2024-01-05,STU_1144,Academic Skills,Team Alpha,Rep_10,266000,Active
+2025-06-07,STU_1145,Business English,Team Alpha,Rep_8,432000,Active
+2025-08-18,STU_1146,IELTS,Team Alpha,Rep_2,308000,Active
+2024-03-18,STU_1147,Kids English,Team Delta,Rep_14,1369000,Active
+2024-06-14,STU_1148,Business English,Team Delta,Rep_1,310000,Active
+2024-06-08,STU_1149,Business English,Team Sigma,Rep_1,427000,Active
+2024-12-30,STU_1150,Business English,Team Bravo,Rep_4,310000,Cancelled
+2025-02-24,STU_1151,Kids English,Team Delta,Rep_6,1693000,Active
+2024-03-04,STU_1152,IELTS,Team Alpha,Rep_7,233000,Active
+2024-05-26,STU_1153,TOEIC,Team Delta,Rep_2,822000,Active
+2025-03-07,STU_1154,TOEIC,Team Alpha,Rep_8,1999000,Active
+2024-11-15,STU_1155,Business English,Team Alpha,Rep_9,1592000,Active
+2025-10-11,STU_1156,Business English,Team Delta,Rep_3,947000,Active
+2025-06-29,STU_1157,IELTS,Team Delta,Rep_2,794000,Active
+2025-07-21,STU_1158,TOEIC,Team Bravo,Rep_10,1777000,Active
+2025-12-01,STU_1159,TOEIC,Team Bravo,Rep_15,624000,Active
+2025-05-16,STU_1160,TOEIC,Team Bravo,Rep_15,812000,Active
+2024-04-10,STU_1161,Kids English,Team Sigma,Rep_12,1741000,Active
+2024-06-26,STU_1162,IELTS,Team Alpha,Rep_5,891000,Active
+2025-12-16,STU_1163,Academic Skills,Team Sigma,Rep_7,1505000,Active
+2024-03-30,STU_1164,Academic Skills,Team Alpha,Rep_5,1543000,Active
+2024-04-08,STU_1165,Business English,Team Delta,Rep_9,1961000,Active
+2025-12-05,STU_1166,Kids English,Team Sigma,Rep_2,1666000,Active
+2024-05-19,STU_1167,TOEIC,Team Bravo,Rep_6,514000,Active
+2025-05-01,STU_1168,Kids English,Team Sigma,Rep_10,1076000,Cancelled
+2025-11-10,STU_1169,Academic Skills,Team Bravo,Rep_10,1964000,Active
+2024-02-26,STU_1170,Kids English,Team Sigma,Rep_7,1600000,Active
+2024-09-27,STU_1171,IELTS,Team Delta,Rep_15,1512000,Active
+2024-12-15,STU_1172,Kids English,Team Sigma,Rep_14,1660000,Active
+2025-01-28,STU_1173,Business English,Team Delta,Rep_15,861000,Active
+2025-07-26,STU_1174,Kids English,Team Sigma,Rep_2,476000,Active
+2024-04-08,STU_1175,IELTS,Team Sigma,Rep_7,1933000,Cancelled
+2025-06-18,STU_1176,TOEIC,Team Alpha,Rep_14,1805000,Active
+2024-05-25,STU_1177,Kids English,Team Sigma,Rep_11,1726000,Active
+2024-09-05,STU_1178,Business English,Team Alpha,Rep_4,823000,Cancelled
+2024-03-27,STU_1179,TOEIC,Team Alpha,Rep_6,715000,Active
+2025-03-20,STU_1180,TOEIC,Team Bravo,Rep_5,1573000,Active
+2025-09-25,STU_1181,Business English,Team Sigma,Rep_2,1042000,Active
+2025-05-18,STU_1182,Business English,Team Bravo,Rep_15,1669000,Active
+2024-10-04,STU_1183,TOEIC,Team Alpha,Rep_8,549000,Active
+2024-03-11,STU_1184,Business English,Team Bravo,Rep_14,1830000,Cancelled
+2024-08-13,STU_1185,Academic Skills,Team Alpha,Rep_7,1887000,Active
+2024-10-02,STU_1186,IELTS,Team Sigma,Rep_3,1022000,Active
+2025-08-03,STU_1187,Academic Skills,Team Delta,Rep_12,1360000,Active
+2024-08-06,STU_1188,IELTS,Team Sigma,Rep_4,958000,Active
+2025-10-11,STU_1189,Business English,Team Sigma,Rep_3,1098000,Cancelled
+2025-02-27,STU_1190,Kids English,Team Bravo,Rep_9,442000,Active
+2025-08-02,STU_1191,Kids English,Team Sigma,Rep_13,742000,Active
+2024-07-18,STU_1192,IELTS,Team Bravo,Rep_6,1263000,Active
+2024-01-28,STU_1193,Academic Skills,Team Bravo,Rep_1,428000,Active
+2024-08-16,STU_1194,Business English,Team Alpha,Rep_3,747000,Active
+2025-10-05,STU_1195,IELTS,Team Sigma,Rep_8,1119000,Active
+2025-06-23,STU_1196,TOEIC,Team Delta,Rep_4,1446000,Active
+2024-12-13,STU_1197,Academic Skills,Team Alpha,Rep_9,205000,Active
+2024-07-20,STU_1198,Academic Skills,Team Bravo,Rep_15,1545000,Active
+2024-04-05,STU_1199,Kids English,Team Sigma,Rep_11,667000,Active
+2025-02-11,STU_1200,Business English,Team Sigma,Rep_5,1955000,Active
+2024-08-18,STU_1201,Business English,Team Delta,Rep_5,274000,Active
+2024-05-14,STU_1202,TOEIC,Team Delta,Rep_7,203000,Active
+2024-12-05,STU_1203,Business English,Team Bravo,Rep_11,845000,Active
+2024-05-25,STU_1204,Academic Skills,Team Bravo,Rep_12,317000,Active
+2024-01-06,STU_1205,Academic Skills,Team Bravo,Rep_7,1080000,Active
+2024-11-24,STU_1206,TOEIC,Team Sigma,Rep_10,1829000,Active
+2025-08-27,STU_1207,IELTS,Team Bravo,Rep_5,703000,Active
+2024-12-27,STU_1208,TOEIC,Team Bravo,Rep_9,1146000,Cancelled
+2025-03-04,STU_1209,TOEIC,Team Bravo,Rep_1,773000,Active
+2025-02-12,STU_1210,TOEIC,Team Sigma,Rep_12,1664000,Active
+2025-05-18,STU_1211,TOEIC,Team Sigma,Rep_10,393000,Active
+2025-06-25,STU_1212,TOEIC,Team Sigma,Rep_9,1046000,Active
+2025-04-24,STU_1213,Kids English,Team Sigma,Rep_11,914000,Active
+2025-08-14,STU_1214,Academic Skills,Team Sigma,Rep_2,1615000,Active
+2025-12-02,STU_1215,Academic Skills,Team Sigma,Rep_5,1249000,Cancelled
+2024-04-24,STU_1216,Academic Skills,Team Sigma,Rep_3,1658000,Active
+2024-09-27,STU_1217,Kids English,Team Delta,Rep_5,372000,Cancelled
+2024-08-27,STU_1218,Academic Skills,Team Sigma,Rep_3,1523000,Active
+2024-05-14,STU_1219,Academic Skills,Team Alpha,Rep_15,1868000,Active
+2025-12-06,STU_1220,Business English,Team Delta,Rep_14,525000,Cancelled
+2025-06-18,STU_1221,Academic Skills,Team Sigma,Rep_1,1633000,Active
+2025-05-26,STU_1222,IELTS,Team Alpha,Rep_3,1341000,Active
+2025-12-06,STU_1223,TOEIC,Team Delta,Rep_9,1035000,Active
+2025-12-04,STU_1224,Kids English,Team Delta,Rep_6,923000,Active
+2024-03-30,STU_1225,IELTS,Team Sigma,Rep_13,424000,Active
+2025-11-23,STU_1226,TOEIC,Team Delta,Rep_10,731000,Active
+2024-05-29,STU_1227,IELTS,Team Sigma,Rep_10,312000,Active
+2024-10-12,STU_1228,Business English,Team Delta,Rep_6,339000,Active
+2024-01-28,STU_1229,IELTS,Team Sigma,Rep_9,758000,Active
+2024-06-23,STU_1230,Academic Skills,Team Bravo,Rep_5,200000,Active
+2024-11-13,STU_1231,IELTS,Team Sigma,Rep_10,289000,Active
+2025-03-16,STU_1232,TOEIC,Team Delta,Rep_7,853000,Active
+2025-06-13,STU_1233,TOEIC,Team Bravo,Rep_11,519000,Active
+2024-03-09,STU_1234,Kids English,Team Delta,Rep_5,1773000,Active
+2024-08-29,STU_1235,Academic Skills,Team Alpha,Rep_8,338000,Active
+2024-01-19,STU_1236,Academic Skills,Team Sigma,Rep_12,1734000,Active
+2025-06-29,STU_1237,Business English,Team Bravo,Rep_1,1044000,Active
+2024-08-07,STU_1238,TOEIC,Team Sigma,Rep_1,458000,Active
+2025-04-27,STU_1239,Business English,Team Sigma,Rep_4,1896000,Active
+2025-12-03,STU_1240,Kids English,Team Bravo,Rep_4,1101000,Active
+2025-11-16,STU_1241,Academic Skills,Team Delta,Rep_14,889000,Active
+2024-08-14,STU_1242,IELTS,Team Sigma,Rep_11,209000,Active
+2024-07-29,STU_1243,Business English,Team Alpha,Rep_12,460000,Active
+2024-04-11,STU_1244,IELTS,Team Alpha,Rep_1,1873000,Active
+2024-03-10,STU_1245,Academic Skills,Team Sigma,Rep_7,371000,Cancelled
+2025-01-06,STU_1246,TOEIC,Team Bravo,Rep_7,1097000,Cancelled
+2025-12-23,STU_1247,Academic Skills,Team Alpha,Rep_1,212000,Active
+2024-09-01,STU_1248,Business English,Team Sigma,Rep_12,1391000,Active
+2024-02-23,STU_1249,Academic Skills,Team Alpha,Rep_4,1865000,Active
+2025-07-26,STU_1250,Academic Skills,Team Sigma,Rep_12,1819000,Active
+2025-10-02,STU_1251,Academic Skills,Team Delta,Rep_4,520000,Active
+2024-07-17,STU_1252,Kids English,Team Alpha,Rep_12,1542000,Active
+2025-08-22,STU_1253,IELTS,Team Delta,Rep_13,1836000,Active
+2025-07-17,STU_1254,Kids English,Team Bravo,Rep_4,528000,Active
+2024-07-07,STU_1255,Academic Skills,Team Bravo,Rep_2,984000,Active
+2024-10-01,STU_1256,Kids English,Team Delta,Rep_14,976000,Active
+2025-09-18,STU_1257,IELTS,Team Bravo,Rep_15,1110000,Active
+2025-10-15,STU_1258,IELTS,Team Sigma,Rep_4,1773000,Cancelled
+2024-02-04,STU_1259,Business English,Team Bravo,Rep_11,1642000,Active
+2025-11-08,STU_1260,Business English,Team Bravo,Rep_4,1829000,Active
+2024-01-05,STU_1261,Kids English,Team Alpha,Rep_14,1318000,Active
+2024-11-04,STU_1262,Business English,Team Delta,Rep_9,1804000,Active
+2024-02-13,STU_1263,Kids English,Team Bravo,Rep_10,517000,Active
+2025-02-03,STU_1264,Kids English,Team Bravo,Rep_4,435000,Active
+2024-10-27,STU_1265,Academic Skills,Team Bravo,Rep_15,533000,Active
+2024-03-29,STU_1266,Kids English,Team Bravo,Rep_4,575000,Active
+2024-05-09,STU_1267,Academic Skills,Team Delta,Rep_12,1682000,Active
+2025-08-05,STU_1268,Academic Skills,Team Bravo,Rep_15,1360000,Active
+2025-03-20,STU_1269,TOEIC,Team Alpha,Rep_3,787000,Active
+2025-04-16,STU_1270,Academic Skills,Team Sigma,Rep_9,1770000,Active
+2024-07-27,STU_1271,Business English,Team Alpha,Rep_13,712000,Active
+2024-11-22,STU_1272,Business English,Team Sigma,Rep_11,1519000,Cancelled
+2025-08-17,STU_1273,TOEIC,Team Alpha,Rep_4,1543000,Active
+2024-05-28,STU_1274,TOEIC,Team Alpha,Rep_15,1117000,Active
+2024-09-17,STU_1275,Kids English,Team Alpha,Rep_13,1795000,Active
+2025-05-11,STU_1276,Business English,Team Delta,Rep_9,1572000,Active
+2025-05-12,STU_1277,IELTS,Team Delta,Rep_6,1072000,Active
+2024-09-13,STU_1278,Business English,Team Bravo,Rep_8,1452000,Active
+2024-02-08,STU_1279,TOEIC,Team Bravo,Rep_11,469000,Cancelled
+2025-12-10,STU_1280,Kids English,Team Sigma,Rep_11,997000,Active
+2024-01-05,STU_1281,Business English,Team Sigma,Rep_3,1514000,Active
+2025-04-01,STU_1282,TOEIC,Team Alpha,Rep_10,924000,Active
+2024-02-06,STU_1283,TOEIC,Team Alpha,Rep_8,1388000,Active
+2024-06-30,STU_1284,Kids English,Team Delta,Rep_8,204000,Active
+2024-10-13,STU_1285,IELTS,Team Sigma,Rep_14,1050000,Active
+2024-05-18,STU_1286,Business English,Team Alpha,Rep_8,1602000,Active
+2024-07-23,STU_1287,TOEIC,Team Alpha,Rep_8,277000,Active
+2025-06-25,STU_1288,Academic Skills,Team Bravo,Rep_2,1633000,Active
+2024-07-30,STU_1289,IELTS,Team Delta,Rep_8,773000,Cancelled
+2025-08-22,STU_1290,Academic Skills,Team Sigma,Rep_10,331000,Active
+2024-12-14,STU_1291,IELTS,Team Alpha,Rep_11,800000,Cancelled
+2024-11-13,STU_1292,Academic Skills,Team Delta,Rep_12,1972000,Active
+2024-02-22,STU_1293,Academic Skills,Team Alpha,Rep_4,1265000,Cancelled
+2025-10-17,STU_1294,TOEIC,Team Bravo,Rep_7,288000,Active
+2025-04-25,STU_1295,Kids English,Team Delta,Rep_11,601000,Active
+2024-11-08,STU_1296,Business English,Team Sigma,Rep_6,495000,Cancelled
+2025-12-02,STU_1297,Kids English,Team Sigma,Rep_4,1518000,Active
+2025-04-08,STU_1298,TOEIC,Team Delta,Rep_5,815000,Cancelled
+2024-09-03,STU_1299,Academic Skills,Team Alpha,Rep_5,1749000,Active
+2025-10-29,STU_1300,TOEIC,Team Bravo,Rep_6,999000,Active
+2025-11-25,STU_1301,IELTS,Team Bravo,Rep_5,1914000,Active
+2025-04-24,STU_1302,Academic Skills,Team Bravo,Rep_6,1860000,Active
+2024-05-15,STU_1303,Academic Skills,Team Sigma,Rep_2,621000,Active
+2025-04-23,STU_1304,Kids English,Team Bravo,Rep_8,1246000,Active
+2025-01-30,STU_1305,TOEIC,Team Delta,Rep_3,774000,Active
+2024-04-20,STU_1306,Academic Skills,Team Alpha,Rep_10,342000,Active
+2024-04-15,STU_1307,Business English,Team Sigma,Rep_13,1192000,Active
+2024-02-01,STU_1308,Academic Skills,Team Alpha,Rep_11,864000,Active
+2024-04-03,STU_1309,Business English,Team Bravo,Rep_9,344000,Active
+2024-01-17,STU_1310,Kids English,Team Bravo,Rep_5,1448000,Active
+2025-03-23,STU_1311,Kids English,Team Sigma,Rep_1,1206000,Active
+2024-05-19,STU_1312,Business English,Team Delta,Rep_4,702000,Active
+2024-01-26,STU_1313,IELTS,Team Sigma,Rep_11,1020000,Active
+2025-09-21,STU_1314,TOEIC,Team Sigma,Rep_3,1839000,Active
+2025-03-03,STU_1315,Academic Skills,Team Bravo,Rep_3,303000,Cancelled
+2024-12-04,STU_1316,Business English,Team Delta,Rep_6,1262000,Active
+2025-08-18,STU_1317,Business English,Team Alpha,Rep_3,397000,Active
+2025-02-21,STU_1318,Business English,Team Delta,Rep_7,1869000,Active
+2024-04-06,STU_1319,IELTS,Team Bravo,Rep_13,778000,Active
+2025-11-24,STU_1320,Academic Skills,Team Alpha,Rep_15,590000,Active
+2025-05-28,STU_1321,Business English,Team Alpha,Rep_9,1402000,Active
+2024-04-10,STU_1322,Business English,Team Sigma,Rep_7,753000,Active
+2025-07-08,STU_1323,Business English,Team Alpha,Rep_1,1671000,Active
+2024-10-27,STU_1324,Business English,Team Sigma,Rep_4,1723000,Cancelled
+2025-03-17,STU_1325,Business English,Team Bravo,Rep_15,1238000,Cancelled
+2024-11-10,STU_1326,Kids English,Team Alpha,Rep_3,1846000,Active
+2025-05-23,STU_1327,Academic Skills,Team Alpha,Rep_6,1892000,Active
+2025-10-18,STU_1328,Kids English,Team Bravo,Rep_4,1512000,Active
+2025-07-19,STU_1329,Kids English,Team Sigma,Rep_9,677000,Active
+2024-05-19,STU_1330,Academic Skills,Team Delta,Rep_5,1454000,Active
+2025-02-20,STU_1331,Academic Skills,Team Alpha,Rep_5,1122000,Active
+2024-04-07,STU_1332,Academic Skills,Team Sigma,Rep_3,619000,Active
+2025-06-09,STU_1333,Academic Skills,Team Bravo,Rep_1,356000,Active
+2025-08-22,STU_1334,Kids English,Team Delta,Rep_10,749000,Active
+2024-04-29,STU_1335,IELTS,Team Bravo,Rep_13,1664000,Cancelled
+2024-11-27,STU_1336,IELTS,Team Alpha,Rep_4,1320000,Cancelled
+2024-11-29,STU_1337,Academic Skills,Team Bravo,Rep_9,1220000,Active
+2024-05-14,STU_1338,Academic Skills,Team Delta,Rep_15,1196000,Active
+2024-11-06,STU_1339,Business English,Team Sigma,Rep_11,1634000,Cancelled
+2024-12-12,STU_1340,Kids English,Team Bravo,Rep_2,1150000,Active
+2024-02-16,STU_1341,Academic Skills,Team Alpha,Rep_15,488000,Active
+2024-10-02,STU_1342,Business English,Team Delta,Rep_8,1477000,Active
+2024-10-22,STU_1343,Academic Skills,Team Sigma,Rep_14,395000,Active
+2024-12-19,STU_1344,IELTS,Team Sigma,Rep_14,797000,Active
+2024-07-21,STU_1345,Business English,Team Alpha,Rep_9,1745000,Cancelled
+2024-03-18,STU_1346,Academic Skills,Team Bravo,Rep_9,716000,Cancelled
+2025-02-18,STU_1347,Academic Skills,Team Delta,Rep_15,1858000,Active
+2024-04-14,STU_1348,Academic Skills,Team Delta,Rep_9,1064000,Active
+2024-12-22,STU_1349,Academic Skills,Team Delta,Rep_12,1341000,Cancelled
+2025-04-16,STU_1350,Business English,Team Bravo,Rep_13,1005000,Active
+2024-03-24,STU_1351,Academic Skills,Team Bravo,Rep_15,1382000,Cancelled
+2025-12-04,STU_1352,Business English,Team Alpha,Rep_1,1014000,Active
+2024-02-03,STU_1353,TOEIC,Team Bravo,Rep_7,427000,Active
+2024-06-29,STU_1354,TOEIC,Team Sigma,Rep_14,415000,Active
+2025-05-23,STU_1355,Business English,Team Sigma,Rep_7,1147000,Active
+2024-10-06,STU_1356,TOEIC,Team Alpha,Rep_4,1919000,Active
+2025-09-01,STU_1357,TOEIC,Team Sigma,Rep_7,214000,Active
+2025-10-23,STU_1358,IELTS,Team Delta,Rep_14,1380000,Active
+2024-07-29,STU_1359,Business English,Team Delta,Rep_11,1871000,Active
+2024-10-07,STU_1360,IELTS,Team Alpha,Rep_15,1484000,Active
+2025-01-13,STU_1361,Kids English,Team Delta,Rep_7,1380000,Cancelled
+2024-11-13,STU_1362,IELTS,Team Alpha,Rep_15,246000,Cancelled
+2024-03-01,STU_1363,TOEIC,Team Alpha,Rep_11,523000,Active
+2025-02-19,STU_1364,TOEIC,Team Bravo,Rep_9,1043000,Active
+2025-06-26,STU_1365,IELTS,Team Delta,Rep_5,1908000,Active
+2025-01-11,STU_1366,TOEIC,Team Bravo,Rep_9,329000,Active
+2024-05-02,STU_1367,Academic Skills,Team Delta,Rep_9,1634000,Cancelled
+2025-12-08,STU_1368,TOEIC,Team Alpha,Rep_5,294000,Active
+2024-10-24,STU_1369,TOEIC,Team Sigma,Rep_11,826000,Active
+2025-10-02,STU_1370,TOEIC,Team Delta,Rep_1,954000,Cancelled
+2025-01-25,STU_1371,IELTS,Team Bravo,Rep_1,1515000,Active
+2024-07-16,STU_1372,Kids English,Team Alpha,Rep_10,993000,Active
+2024-06-20,STU_1373,Academic Skills,Team Delta,Rep_2,1506000,Cancelled
+2025-09-27,STU_1374,TOEIC,Team Bravo,Rep_13,268000,Active
+2025-07-08,STU_1375,Kids English,Team Sigma,Rep_9,1883000,Cancelled
+2025-05-02,STU_1376,IELTS,Team Delta,Rep_10,210000,Active
+2024-11-28,STU_1377,IELTS,Team Sigma,Rep_1,1477000,Active
+2024-04-03,STU_1378,Academic Skills,Team Delta,Rep_2,1071000,Active
+2024-12-10,STU_1379,IELTS,Team Bravo,Rep_11,749000,Cancelled
+2025-03-18,STU_1380,TOEIC,Team Bravo,Rep_9,1357000,Active
+2025-07-11,STU_1381,IELTS,Team Sigma,Rep_6,911000,Active
+2024-08-11,STU_1382,Business English,Team Alpha,Rep_1,222000,Active
+2024-08-26,STU_1383,TOEIC,Team Sigma,Rep_3,1014000,Active
+2025-04-17,STU_1384,Business English,Team Alpha,Rep_14,545000,Active
+2024-09-26,STU_1385,Kids English,Team Sigma,Rep_11,501000,Active
+2024-03-16,STU_1386,Business English,Team Alpha,Rep_4,562000,Active
+2024-12-20,STU_1387,Business English,Team Bravo,Rep_14,595000,Active
+2024-10-17,STU_1388,Business English,Team Alpha,Rep_6,417000,Active
+2025-06-12,STU_1389,Academic Skills,Team Sigma,Rep_3,340000,Active
+2024-03-18,STU_1390,Academic Skills,Team Bravo,Rep_8,1839000,Active
+2025-06-17,STU_1391,Kids English,Team Bravo,Rep_2,1157000,Cancelled
+2025-11-23,STU_1392,Academic Skills,Team Delta,Rep_5,1433000,Active
+2024-09-07,STU_1393,Kids English,Team Sigma,Rep_7,1184000,Cancelled
+2024-12-11,STU_1394,IELTS,Team Sigma,Rep_2,1192000,Active
+2025-07-03,STU_1395,IELTS,Team Sigma,Rep_3,1846000,Active
+2025-05-17,STU_1396,Business English,Team Sigma,Rep_2,1839000,Active
+2024-12-22,STU_1397,Business English,Team Sigma,Rep_15,1027000,Active
+2025-02-24,STU_1398,Kids English,Team Bravo,Rep_11,882000,Active
+2024-02-24,STU_1399,Business English,Team Alpha,Rep_15,1683000,Active
+2025-05-12,STU_1400,Business English,Team Bravo,Rep_1,1203000,Active
+2025-05-24,STU_1401,Business English,Team Bravo,Rep_8,555000,Active
+2024-10-07,STU_1402,Business English,Team Alpha,Rep_15,1207000,Active
+2025-07-22,STU_1403,Business English,Team Sigma,Rep_13,1547000,Active
+2025-12-22,STU_1404,TOEIC,Team Bravo,Rep_8,1356000,Active
+2025-01-16,STU_1405,IELTS,Team Bravo,Rep_13,1087000,Active
+2025-10-04,STU_1406,TOEIC,Team Alpha,Rep_5,326000,Active
+2025-09-22,STU_1407,TOEIC,Team Sigma,Rep_14,1329000,Active
+2025-03-04,STU_1408,Academic Skills,Team Delta,Rep_2,1208000,Active
+2025-06-22,STU_1409,Kids English,Team Bravo,Rep_8,803000,Active
+2025-05-26,STU_1410,Business English,Team Bravo,Rep_3,1601000,Active
+2025-04-06,STU_1411,TOEIC,Team Bravo,Rep_2,1213000,Active
+2025-06-18,STU_1412,TOEIC,Team Delta,Rep_9,250000,Active
+2025-03-12,STU_1413,TOEIC,Team Bravo,Rep_15,1252000,Active
+2025-05-12,STU_1414,TOEIC,Team Delta,Rep_4,1685000,Active
+2025-11-16,STU_1415,Business English,Team Delta,Rep_8,1519000,Active
+2024-01-15,STU_1416,IELTS,Team Sigma,Rep_12,1520000,Active
+2024-05-24,STU_1417,Business English,Team Alpha,Rep_3,1949000,Cancelled
+2024-01-28,STU_1418,TOEIC,Team Bravo,Rep_12,978000,Active
+2024-12-15,STU_1419,TOEIC,Team Bravo,Rep_15,1630000,Cancelled
+2025-02-11,STU_1420,Academic Skills,Team Sigma,Rep_7,1992000,Active
+2024-08-19,STU_1421,TOEIC,Team Delta,Rep_9,1013000,Active
+2025-12-08,STU_1422,Business English,Team Alpha,Rep_7,1836000,Active
+2025-06-04,STU_1423,IELTS,Team Alpha,Rep_14,1628000,Active
+2024-04-22,STU_1424,IELTS,Team Sigma,Rep_10,1569000,Active
+2025-06-20,STU_1425,Business English,Team Bravo,Rep_5,1845000,Active
+2025-08-28,STU_1426,Academic Skills,Team Sigma,Rep_8,619000,Active
+2024-01-09,STU_1427,TOEIC,Team Sigma,Rep_15,1405000,Active
+2025-12-21,STU_1428,TOEIC,Team Delta,Rep_4,1182000,Active
+2025-04-07,STU_1429,IELTS,Team Alpha,Rep_4,1024000,Active
+2025-12-02,STU_1430,TOEIC,Team Sigma,Rep_12,1224000,Active
+2025-04-10,STU_1431,Academic Skills,Team Alpha,Rep_5,766000,Active
+2025-09-02,STU_1432,TOEIC,Team Bravo,Rep_9,570000,Active
+2024-07-06,STU_1433,Business English,Team Delta,Rep_10,1135000,Cancelled
+2024-02-28,STU_1434,IELTS,Team Bravo,Rep_1,860000,Active
+2025-06-01,STU_1435,IELTS,Team Sigma,Rep_10,1654000,Cancelled
+2024-06-21,STU_1436,TOEIC,Team Alpha,Rep_4,1168000,Active
+2025-10-30,STU_1437,IELTS,Team Sigma,Rep_6,1532000,Active
+2024-10-30,STU_1438,Business English,Team Delta,Rep_6,1360000,Active
+2025-02-19,STU_1439,IELTS,Team Bravo,Rep_15,401000,Active
+2025-08-12,STU_1440,Business English,Team Sigma,Rep_3,1659000,Cancelled
+2025-04-04,STU_1441,Kids English,Team Alpha,Rep_3,512000,Active
+2025-01-28,STU_1442,Business English,Team Sigma,Rep_12,316000,Active
+2024-06-02,STU_1443,IELTS,Team Alpha,Rep_7,1889000,Active
+2025-09-18,STU_1444,IELTS,Team Sigma,Rep_1,1136000,Active
+2025-11-03,STU_1445,Academic Skills,Team Bravo,Rep_5,774000,Cancelled
+2025-09-05,STU_1446,Business English,Team Sigma,Rep_1,443000,Active
+2024-09-19,STU_1447,TOEIC,Team Delta,Rep_3,736000,Active
+2024-07-22,STU_1448,Academic Skills,Team Sigma,Rep_5,1825000,Active
+2025-08-15,STU_1449,IELTS,Team Delta,Rep_12,274000,Active
+2025-11-29,STU_1450,Business English,Team Sigma,Rep_8,585000,Active
+2025-01-28,STU_1451,Academic Skills,Team Sigma,Rep_11,1433000,Active
+2024-05-19,STU_1452,Business English,Team Alpha,Rep_7,674000,Active
+2024-05-15,STU_1453,IELTS,Team Bravo,Rep_10,617000,Active
+2025-01-13,STU_1454,Academic Skills,Team Bravo,Rep_5,546000,Active
+2025-03-19,STU_1455,IELTS,Team Delta,Rep_11,1752000,Active
+2024-06-26,STU_1456,Academic Skills,Team Sigma,Rep_4,839000,Active
+2024-11-14,STU_1457,Kids English,Team Alpha,Rep_13,1138000,Active
+2024-09-01,STU_1458,Business English,Team Delta,Rep_5,1154000,Active
+2025-11-11,STU_1459,IELTS,Team Alpha,Rep_9,1075000,Active
+2024-07-05,STU_1460,Business English,Team Sigma,Rep_4,962000,Active
+2024-09-18,STU_1461,Kids English,Team Alpha,Rep_4,1402000,Active
+2024-03-16,STU_1462,Kids English,Team Sigma,Rep_8,1405000,Active
+2024-11-01,STU_1463,TOEIC,Team Sigma,Rep_3,863000,Active
+2024-02-02,STU_1464,IELTS,Team Alpha,Rep_8,224000,Active
+2024-06-02,STU_1465,TOEIC,Team Bravo,Rep_8,1403000,Active
+2025-10-17,STU_1466,TOEIC,Team Bravo,Rep_4,909000,Active
+2025-07-01,STU_1467,Business English,Team Alpha,Rep_14,1724000,Active
+2025-02-18,STU_1468,Business English,Team Delta,Rep_15,1384000,Active
+2024-10-23,STU_1469,Academic Skills,Team Bravo,Rep_14,376000,Active
+2025-08-30,STU_1470,Kids English,Team Alpha,Rep_5,484000,Active
+2024-10-12,STU_1471,TOEIC,Team Bravo,Rep_7,262000,Active
+2024-08-06,STU_1472,IELTS,Team Sigma,Rep_9,1202000,Active
+2024-06-03,STU_1473,TOEIC,Team Delta,Rep_15,861000,Active
+2025-06-21,STU_1474,Academic Skills,Team Alpha,Rep_10,865000,Active
+2024-10-20,STU_1475,Academic Skills,Team Delta,Rep_2,355000,Active
+2024-11-05,STU_1476,Business English,Team Delta,Rep_12,1692000,Active
+2025-11-05,STU_1477,Academic Skills,Team Alpha,Rep_4,1272000,Active
+2024-03-22,STU_1478,Kids English,Team Delta,Rep_2,1166000,Active
+2025-10-04,STU_1479,TOEIC,Team Delta,Rep_13,1048000,Active
+2025-03-31,STU_1480,IELTS,Team Delta,Rep_2,1307000,Active
+2025-02-03,STU_1481,Business English,Team Alpha,Rep_11,1584000,Active
+2024-10-11,STU_1482,Academic Skills,Team Bravo,Rep_5,888000,Active
+2024-03-31,STU_1483,Business English,Team Alpha,Rep_12,347000,Active
+2025-05-01,STU_1484,TOEIC,Team Bravo,Rep_3,1853000,Active
+2024-07-25,STU_1485,IELTS,Team Alpha,Rep_12,541000,Cancelled
+2024-04-01,STU_1486,TOEIC,Team Sigma,Rep_4,675000,Active
+2024-01-13,STU_1487,IELTS,Team Sigma,Rep_15,1286000,Cancelled
+2024-12-21,STU_1488,IELTS,Team Sigma,Rep_7,1924000,Active
+2024-10-12,STU_1489,IELTS,Team Bravo,Rep_3,1583000,Cancelled
+2025-04-20,STU_1490,Academic Skills,Team Bravo,Rep_9,760000,Active
+2024-10-21,STU_1491,Academic Skills,Team Delta,Rep_1,526000,Active
+2024-11-03,STU_1492,Kids English,Team Sigma,Rep_12,1992000,Active
+2024-06-16,STU_1493,Kids English,Team Alpha,Rep_6,1959000,Active
+2025-11-27,STU_1494,Kids English,Team Alpha,Rep_4,1364000,Active
+2024-08-03,STU_1495,Academic Skills,Team Sigma,Rep_13,1189000,Active
+2025-04-29,STU_1496,Academic Skills,Team Alpha,Rep_4,414000,Active
+2025-08-24,STU_1497,IELTS,Team Alpha,Rep_13,634000,Active
+2024-08-31,STU_1498,IELTS,Team Sigma,Rep_7,1151000,Active
+2024-04-17,STU_1499,Business English,Team Delta,Rep_14,922000,Active
+2025-08-30,STU_1500,Business English,Team Delta,Rep_5,1541000,Cancelled
+2024-10-29,STU_1501,Business English,Team Alpha,Rep_8,231000,Active
+2024-11-16,STU_1502,Business English,Team Sigma,Rep_7,869000,Cancelled
+2024-11-08,STU_1503,Kids English,Team Alpha,Rep_9,484000,Active
+2024-04-08,STU_1504,TOEIC,Team Sigma,Rep_3,1528000,Active
+2024-10-28,STU_1505,Kids English,Team Delta,Rep_7,628000,Active
+2024-05-30,STU_1506,Kids English,Team Alpha,Rep_15,1700000,Active
+2024-04-25,STU_1507,Academic Skills,Team Bravo,Rep_12,485000,Active
+2025-02-20,STU_1508,TOEIC,Team Alpha,Rep_12,1367000,Active
+2024-03-08,STU_1509,IELTS,Team Delta,Rep_12,1647000,Active
+2025-05-29,STU_1510,Academic Skills,Team Sigma,Rep_5,1242000,Cancelled
+2025-03-22,STU_1511,Academic Skills,Team Bravo,Rep_14,217000,Active
+2025-07-11,STU_1512,IELTS,Team Bravo,Rep_4,968000,Active
+2024-01-19,STU_1513,IELTS,Team Bravo,Rep_15,789000,Active
+2024-06-07,STU_1514,IELTS,Team Sigma,Rep_4,1594000,Active
+2024-07-11,STU_1515,Academic Skills,Team Alpha,Rep_11,1398000,Active
+2025-10-05,STU_1516,IELTS,Team Sigma,Rep_10,1209000,Active
+2024-04-27,STU_1517,Business English,Team Delta,Rep_13,393000,Active
+2024-01-14,STU_1518,Kids English,Team Delta,Rep_3,701000,Active
+2025-03-11,STU_1519,IELTS,Team Delta,Rep_10,1187000,Active
+2025-01-27,STU_1520,Kids English,Team Alpha,Rep_8,1336000,Active
+2025-06-25,STU_1521,Academic Skills,Team Delta,Rep_2,313000,Cancelled
+2025-12-01,STU_1522,IELTS,Team Alpha,Rep_13,1445000,Active
+2025-11-18,STU_1523,IELTS,Team Alpha,Rep_3,1901000,Active
+2025-11-20,STU_1524,Business English,Team Delta,Rep_5,1146000,Active
+2024-10-12,STU_1525,IELTS,Team Alpha,Rep_5,1030000,Cancelled
+2025-05-07,STU_1526,Kids English,Team Sigma,Rep_4,1867000,Active
+2025-04-08,STU_1527,Academic Skills,Team Sigma,Rep_6,1487000,Active
+2025-02-23,STU_1528,Academic Skills,Team Alpha,Rep_13,1124000,Active
+2025-06-20,STU_1529,TOEIC,Team Alpha,Rep_15,254000,Active
+2025-08-24,STU_1530,Kids English,Team Delta,Rep_1,1866000,Active
+2025-11-24,STU_1531,Business English,Team Bravo,Rep_2,999000,Active
+2025-12-24,STU_1532,TOEIC,Team Bravo,Rep_15,977000,Active
+2025-02-03,STU_1533,Academic Skills,Team Sigma,Rep_4,1681000,Active
+2025-11-24,STU_1534,Business English,Team Bravo,Rep_11,361000,Active
+2025-03-21,STU_1535,Kids English,Team Sigma,Rep_8,1603000,Active
+2025-10-13,STU_1536,Academic Skills,Team Bravo,Rep_9,286000,Active
+2025-02-16,STU_1537,Business English,Team Delta,Rep_11,254000,Active
+2024-01-11,STU_1538,Academic Skills,Team Bravo,Rep_9,1699000,Cancelled
+2025-10-07,STU_1539,Kids English,Team Sigma,Rep_14,1401000,Active
+2025-01-02,STU_1540,Academic Skills,Team Delta,Rep_15,1614000,Active
+2025-12-25,STU_1541,Academic Skills,Team Delta,Rep_13,1572000,Active
+2025-12-06,STU_1542,Kids English,Team Sigma,Rep_14,1231000,Active
+2024-04-07,STU_1543,Business English,Team Delta,Rep_6,1032000,Active
+2024-08-14,STU_1544,Academic Skills,Team Sigma,Rep_13,512000,Active
+2024-04-08,STU_1545,TOEIC,Team Alpha,Rep_4,958000,Active
+2025-09-11,STU_1546,IELTS,Team Bravo,Rep_1,642000,Active
+2025-01-04,STU_1547,Academic Skills,Team Bravo,Rep_13,1990000,Active
+2024-05-22,STU_1548,Academic Skills,Team Alpha,Rep_11,527000,Active
+2024-09-07,STU_1549,Business English,Team Bravo,Rep_10,1277000,Active
+2024-10-20,STU_1550,Kids English,Team Bravo,Rep_10,960000,Active
+2025-12-08,STU_1551,Academic Skills,Team Alpha,Rep_15,1462000,Active
+2024-02-14,STU_1552,Business English,Team Bravo,Rep_1,1452000,Active
+2025-03-07,STU_1553,Business English,Team Alpha,Rep_7,778000,Active
+2024-06-13,STU_1554,Academic Skills,Team Bravo,Rep_6,1274000,Active
+2024-12-05,STU_1555,TOEIC,Team Alpha,Rep_1,1832000,Active
+2024-10-18,STU_1556,TOEIC,Team Sigma,Rep_8,1827000,Active
+2025-09-22,STU_1557,Kids English,Team Sigma,Rep_8,1206000,Active
+2024-08-24,STU_1558,Kids English,Team Delta,Rep_15,1487000,Cancelled
+2024-09-29,STU_1559,TOEIC,Team Sigma,Rep_10,1641000,Active
+2025-02-23,STU_1560,Kids English,Team Delta,Rep_6,295000,Active
+2025-06-02,STU_1561,IELTS,Team Alpha,Rep_11,1311000,Active
+2025-05-25,STU_1562,Business English,Team Alpha,Rep_9,1301000,Active
+2025-06-18,STU_1563,Kids English,Team Alpha,Rep_13,1511000,Active
+2024-06-13,STU_1564,IELTS,Team Bravo,Rep_2,1343000,Active
+2024-06-14,STU_1565,Academic Skills,Team Alpha,Rep_15,1013000,Cancelled
+2024-09-24,STU_1566,Business English,Team Delta,Rep_10,690000,Active
+2024-05-27,STU_1567,Business English,Team Bravo,Rep_11,651000,Active
+2024-06-06,STU_1568,Kids English,Team Sigma,Rep_7,1723000,Active
+2025-06-12,STU_1569,Business English,Team Alpha,Rep_13,364000,Active
+2025-08-15,STU_1570,Business English,Team Alpha,Rep_15,381000,Active
+2024-06-06,STU_1571,TOEIC,Team Delta,Rep_14,668000,Active
+2024-08-22,STU_1572,Kids English,Team Sigma,Rep_2,1109000,Active
+2024-08-19,STU_1573,Business English,Team Bravo,Rep_11,934000,Active
+2024-02-28,STU_1574,TOEIC,Team Bravo,Rep_4,1022000,Active
+2025-03-04,STU_1575,IELTS,Team Alpha,Rep_6,1143000,Active
+2025-04-25,STU_1576,TOEIC,Team Delta,Rep_8,206000,Active
+2024-11-08,STU_1577,TOEIC,Team Bravo,Rep_11,529000,Active
+2024-11-20,STU_1578,Academic Skills,Team Delta,Rep_6,974000,Active
+2025-04-11,STU_1579,Business English,Team Bravo,Rep_4,1896000,Active
+2025-09-11,STU_1580,IELTS,Team Sigma,Rep_4,350000,Active
+2025-12-18,STU_1581,TOEIC,Team Bravo,Rep_4,1308000,Cancelled
+2024-11-24,STU_1582,Academic Skills,Team Sigma,Rep_8,346000,Active
+2025-06-05,STU_1583,Kids English,Team Bravo,Rep_8,1847000,Active
+2024-11-16,STU_1584,Business English,Team Sigma,Rep_2,1604000,Cancelled
+2025-12-28,STU_1585,Academic Skills,Team Alpha,Rep_10,1114000,Active
+2025-04-28,STU_1586,TOEIC,Team Bravo,Rep_15,1771000,Active
+2025-08-05,STU_1587,Kids English,Team Sigma,Rep_14,1508000,Active
+2024-04-04,STU_1588,Business English,Team Delta,Rep_3,899000,Active
+2025-04-29,STU_1589,TOEIC,Team Bravo,Rep_9,281000,Active
+2024-06-08,STU_1590,TOEIC,Team Bravo,Rep_7,713000,Active
+2024-03-27,STU_1591,Academic Skills,Team Alpha,Rep_5,1014000,Active
+2024-04-16,STU_1592,IELTS,Team Delta,Rep_10,908000,Active
+2024-07-18,STU_1593,TOEIC,Team Alpha,Rep_1,1746000,Active
+2025-11-19,STU_1594,TOEIC,Team Bravo,Rep_13,945000,Active
+2024-10-06,STU_1595,IELTS,Team Delta,Rep_14,1222000,Active
+2024-09-22,STU_1596,TOEIC,Team Sigma,Rep_14,1609000,Active
+2024-02-16,STU_1597,Academic Skills,Team Bravo,Rep_5,906000,Cancelled
+2024-10-01,STU_1598,TOEIC,Team Delta,Rep_5,670000,Cancelled
+2024-05-29,STU_1599,TOEIC,Team Bravo,Rep_3,1342000,Active
+2024-01-25,STU_1600,Kids English,Team Sigma,Rep_9,595000,Cancelled
+2024-05-02,STU_1601,IELTS,Team Alpha,Rep_8,1755000,Active
+2024-02-01,STU_1602,Academic Skills,Team Alpha,Rep_8,460000,Cancelled
+2024-12-31,STU_1603,Business English,Team Sigma,Rep_1,1004000,Active
+2025-07-13,STU_1604,Kids English,Team Delta,Rep_9,1133000,Active
+2025-07-25,STU_1605,TOEIC,Team Sigma,Rep_6,1479000,Active
+2025-04-09,STU_1606,Business English,Team Delta,Rep_4,1957000,Active
+2025-07-13,STU_1607,TOEIC,Team Alpha,Rep_8,1104000,Active
+2024-10-18,STU_1608,Academic Skills,Team Alpha,Rep_5,1449000,Active
+2025-12-29,STU_1609,TOEIC,Team Alpha,Rep_3,1276000,Active
+2024-06-02,STU_1610,TOEIC,Team Sigma,Rep_5,1139000,Active
+2025-04-14,STU_1611,Academic Skills,Team Sigma,Rep_5,1723000,Active
+2025-06-14,STU_1612,IELTS,Team Sigma,Rep_14,1729000,Active
+2025-10-16,STU_1613,TOEIC,Team Delta,Rep_9,1053000,Active
+2024-01-30,STU_1614,TOEIC,Team Delta,Rep_4,1587000,Active
+2025-11-10,STU_1615,Kids English,Team Alpha,Rep_11,1503000,Active
+2024-09-20,STU_1616,Business English,Team Sigma,Rep_4,792000,Active
+2025-10-20,STU_1617,Kids English,Team Bravo,Rep_6,913000,Active
+2025-02-26,STU_1618,IELTS,Team Bravo,Rep_13,1381000,Cancelled
+2025-12-21,STU_1619,Kids English,Team Alpha,Rep_8,831000,Active
+2024-09-03,STU_1620,Academic Skills,Team Sigma,Rep_7,258000,Active
+2024-06-13,STU_1621,IELTS,Team Bravo,Rep_4,1950000,Cancelled
+2025-02-13,STU_1622,Academic Skills,Team Alpha,Rep_10,327000,Active
+2025-12-05,STU_1623,Academic Skills,Team Delta,Rep_11,935000,Active
+2025-01-07,STU_1624,Business English,Team Delta,Rep_2,920000,Active
+2024-04-06,STU_1625,Kids English,Team Sigma,Rep_6,1338000,Active
+2025-05-20,STU_1626,IELTS,Team Sigma,Rep_14,1432000,Active
+2025-09-22,STU_1627,Academic Skills,Team Delta,Rep_7,725000,Active
+2024-05-14,STU_1628,Academic Skills,Team Bravo,Rep_11,720000,Active
+2025-03-03,STU_1629,TOEIC,Team Sigma,Rep_2,751000,Cancelled
+2024-06-17,STU_1630,Business English,Team Delta,Rep_6,436000,Active
+2025-01-23,STU_1631,Business English,Team Alpha,Rep_7,1504000,Active
+2024-01-06,STU_1632,Kids English,Team Delta,Rep_13,1582000,Active
+2024-11-29,STU_1633,TOEIC,Team Bravo,Rep_13,1424000,Active
+2024-05-25,STU_1634,Kids English,Team Alpha,Rep_9,1981000,Active
+2025-08-05,STU_1635,Business English,Team Sigma,Rep_10,1501000,Active
+2024-12-22,STU_1636,TOEIC,Team Delta,Rep_8,1458000,Active
+2024-10-17,STU_1637,IELTS,Team Bravo,Rep_9,693000,Active
+2025-08-30,STU_1638,Kids English,Team Alpha,Rep_2,203000,Active
+2024-04-24,STU_1639,IELTS,Team Bravo,Rep_10,865000,Active
+2025-05-18,STU_1640,Business English,Team Delta,Rep_8,641000,Active
+2025-08-12,STU_1641,Business English,Team Delta,Rep_9,228000,Active
+2024-07-24,STU_1642,TOEIC,Team Bravo,Rep_2,1332000,Active
+2025-07-13,STU_1643,Business English,Team Sigma,Rep_12,809000,Active
+2024-02-04,STU_1644,TOEIC,Team Bravo,Rep_13,1950000,Active
+2024-08-05,STU_1645,Kids English,Team Sigma,Rep_5,1004000,Active
+2024-06-25,STU_1646,IELTS,Team Sigma,Rep_8,274000,Cancelled
+2025-03-14,STU_1647,IELTS,Team Sigma,Rep_12,1037000,Active
+2024-03-26,STU_1648,TOEIC,Team Delta,Rep_6,1369000,Cancelled
+2025-06-19,STU_1649,Academic Skills,Team Sigma,Rep_8,327000,Active
+2024-02-02,STU_1650,Academic Skills,Team Alpha,Rep_2,241000,Cancelled
+2024-09-01,STU_1651,TOEIC,Team Bravo,Rep_10,1579000,Active
+2025-03-25,STU_1652,IELTS,Team Alpha,Rep_12,240000,Cancelled
+2024-04-28,STU_1653,Business English,Team Alpha,Rep_8,1133000,Cancelled
+2025-12-16,STU_1654,TOEIC,Team Bravo,Rep_10,233000,Active
+2025-09-15,STU_1655,TOEIC,Team Bravo,Rep_5,1240000,Cancelled
+2024-12-02,STU_1656,Business English,Team Sigma,Rep_5,1900000,Active
+2025-01-04,STU_1657,TOEIC,Team Delta,Rep_11,1376000,Active
+2024-10-09,STU_1658,TOEIC,Team Delta,Rep_4,1197000,Active
+2025-06-21,STU_1659,Academic Skills,Team Alpha,Rep_2,1601000,Active
+2024-11-20,STU_1660,IELTS,Team Alpha,Rep_7,787000,Active
+2025-02-06,STU_1661,Academic Skills,Team Bravo,Rep_7,1822000,Active
+2025-06-14,STU_1662,Business English,Team Alpha,Rep_3,1852000,Cancelled
+2025-11-19,STU_1663,TOEIC,Team Sigma,Rep_7,541000,Active
+2024-01-31,STU_1664,Business English,Team Alpha,Rep_4,226000,Active
+2024-03-30,STU_1665,IELTS,Team Sigma,Rep_11,1510000,Cancelled
+2025-02-25,STU_1666,Kids English,Team Bravo,Rep_14,845000,Cancelled
+2025-01-08,STU_1667,Kids English,Team Bravo,Rep_5,930000,Cancelled
+2024-09-20,STU_1668,Kids English,Team Sigma,Rep_8,367000,Active
+2024-04-24,STU_1669,TOEIC,Team Delta,Rep_6,809000,Cancelled
+2024-12-09,STU_1670,Business English,Team Bravo,Rep_10,467000,Active
+2024-11-28,STU_1671,Business English,Team Delta,Rep_10,1972000,Active
+2025-01-30,STU_1672,Business English,Team Delta,Rep_7,1020000,Active
+2024-09-08,STU_1673,Academic Skills,Team Sigma,Rep_7,654000,Active
+2024-04-15,STU_1674,IELTS,Team Delta,Rep_3,1105000,Active
+2024-12-02,STU_1675,Business English,Team Alpha,Rep_14,1908000,Active
+2024-10-13,STU_1676,Kids English,Team Alpha,Rep_15,1624000,Active
+2025-04-11,STU_1677,Academic Skills,Team Bravo,Rep_8,1121000,Active
+2024-10-14,STU_1678,IELTS,Team Alpha,Rep_12,1180000,Active
+2024-05-21,STU_1679,Business English,Team Bravo,Rep_1,1699000,Active
+2024-02-27,STU_1680,Academic Skills,Team Bravo,Rep_7,901000,Active
+2025-11-11,STU_1681,Academic Skills,Team Alpha,Rep_5,833000,Active
+2025-04-25,STU_1682,Academic Skills,Team Sigma,Rep_1,1781000,Active
+2024-02-19,STU_1683,Academic Skills,Team Bravo,Rep_10,1799000,Active
+2024-03-19,STU_1684,Academic Skills,Team Delta,Rep_2,329000,Cancelled
+2024-02-05,STU_1685,TOEIC,Team Alpha,Rep_4,1219000,Active
+2025-03-10,STU_1686,Business English,Team Bravo,Rep_14,1586000,Active
+2025-01-26,STU_1687,Academic Skills,Team Delta,Rep_2,1928000,Active
+2025-07-29,STU_1688,TOEIC,Team Delta,Rep_5,1018000,Active
+2024-01-20,STU_1689,Business English,Team Delta,Rep_12,892000,Active
+2024-10-24,STU_1690,TOEIC,Team Delta,Rep_8,1515000,Active
+2024-06-27,STU_1691,Kids English,Team Alpha,Rep_3,1594000,Active
+2024-01-22,STU_1692,IELTS,Team Alpha,Rep_10,993000,Active
+2024-03-27,STU_1693,Kids English,Team Sigma,Rep_4,228000,Active
+2024-04-03,STU_1694,Business English,Team Alpha,Rep_2,348000,Active
+2025-06-29,STU_1695,Academic Skills,Team Sigma,Rep_13,1519000,Active
+2024-08-01,STU_1696,TOEIC,Team Sigma,Rep_11,210000,Active
+2025-04-14,STU_1697,Academic Skills,Team Alpha,Rep_10,1735000,Active
+2025-12-08,STU_1698,Business English,Team Sigma,Rep_4,875000,Active
+2024-05-11,STU_1699,Academic Skills,Team Bravo,Rep_14,1336000,Cancelled
+2025-10-12,STU_1700,TOEIC,Team Delta,Rep_15,386000,Cancelled
+2024-09-05,STU_1701,IELTS,Team Alpha,Rep_2,1006000,Active
+2025-08-26,STU_1702,TOEIC,Team Delta,Rep_14,943000,Active
+2025-07-24,STU_1703,Business English,Team Delta,Rep_8,1450000,Active
+2024-09-23,STU_1704,Kids English,Team Sigma,Rep_5,1533000,Active
+2025-11-26,STU_1705,Business English,Team Delta,Rep_9,297000,Active
+2025-04-22,STU_1706,TOEIC,Team Sigma,Rep_10,254000,Cancelled
+2024-11-19,STU_1707,IELTS,Team Bravo,Rep_3,822000,Cancelled
+2025-05-04,STU_1708,Kids English,Team Sigma,Rep_1,863000,Active
+2024-06-24,STU_1709,TOEIC,Team Sigma,Rep_6,957000,Active
+2025-08-31,STU_1710,TOEIC,Team Delta,Rep_2,605000,Active
+2025-05-27,STU_1711,Kids English,Team Sigma,Rep_5,268000,Active
+2025-09-22,STU_1712,IELTS,Team Alpha,Rep_14,1535000,Active
+2025-09-22,STU_1713,Academic Skills,Team Delta,Rep_7,1512000,Active
+2025-11-13,STU_1714,TOEIC,Team Alpha,Rep_3,1985000,Active
+2024-01-04,STU_1715,TOEIC,Team Delta,Rep_15,1771000,Active
+2025-03-13,STU_1716,Kids English,Team Alpha,Rep_9,950000,Active
+2025-05-08,STU_1717,IELTS,Team Alpha,Rep_10,1371000,Cancelled
+2024-02-01,STU_1718,Kids English,Team Bravo,Rep_2,1690000,Active
+2025-10-17,STU_1719,TOEIC,Team Delta,Rep_7,1962000,Active
+2025-01-14,STU_1720,IELTS,Team Sigma,Rep_5,1467000,Active
+2025-06-13,STU_1721,Business English,Team Alpha,Rep_7,1714000,Active
+2024-11-21,STU_1722,IELTS,Team Bravo,Rep_2,1157000,Active
+2025-07-24,STU_1723,TOEIC,Team Delta,Rep_13,1730000,Active
+2024-12-20,STU_1724,TOEIC,Team Alpha,Rep_5,564000,Cancelled
+2024-08-05,STU_1725,IELTS,Team Bravo,Rep_4,681000,Active
+2025-02-15,STU_1726,Business English,Team Bravo,Rep_2,400000,Cancelled
+2024-05-05,STU_1727,TOEIC,Team Bravo,Rep_14,353000,Active
+2024-05-30,STU_1728,IELTS,Team Sigma,Rep_4,1673000,Active
+2024-06-13,STU_1729,Academic Skills,Team Sigma,Rep_6,1724000,Active
+2024-05-19,STU_1730,IELTS,Team Sigma,Rep_13,272000,Active
+2025-03-01,STU_1731,Business English,Team Sigma,Rep_5,912000,Active
+2025-10-21,STU_1732,Kids English,Team Alpha,Rep_9,495000,Active
+2024-10-10,STU_1733,IELTS,Team Alpha,Rep_9,1240000,Active
+2024-03-23,STU_1734,Kids English,Team Sigma,Rep_10,1864000,Cancelled
+2025-04-21,STU_1735,TOEIC,Team Alpha,Rep_7,1440000,Cancelled
+2025-12-19,STU_1736,Kids English,Team Alpha,Rep_1,260000,Cancelled
+2024-02-29,STU_1737,Kids English,Team Sigma,Rep_12,1138000,Active
+2025-04-13,STU_1738,Business English,Team Bravo,Rep_3,1839000,Active
+2024-06-26,STU_1739,Business English,Team Alpha,Rep_14,241000,Active
+2025-06-26,STU_1740,Kids English,Team Bravo,Rep_12,224000,Active
+2025-08-22,STU_1741,Kids English,Team Alpha,Rep_14,1262000,Active
+2025-04-26,STU_1742,Academic Skills,Team Delta,Rep_8,330000,Active
+2025-06-29,STU_1743,Business English,Team Sigma,Rep_15,1721000,Active
+2025-03-14,STU_1744,Kids English,Team Bravo,Rep_8,1452000,Active
+2025-12-17,STU_1745,Kids English,Team Delta,Rep_10,307000,Cancelled
+2025-12-31,STU_1746,Academic Skills,Team Bravo,Rep_1,371000,Active
+2024-01-16,STU_1747,IELTS,Team Sigma,Rep_5,1658000,Active
+2025-07-06,STU_1748,Kids English,Team Alpha,Rep_8,1701000,Active
+2025-11-11,STU_1749,Business English,Team Delta,Rep_6,301000,Cancelled
+2024-09-19,STU_1750,TOEIC,Team Sigma,Rep_3,1065000,Active
+2025-04-10,STU_1751,Business English,Team Sigma,Rep_12,723000,Active
+2025-11-09,STU_1752,TOEIC,Team Alpha,Rep_1,474000,Active
+2024-11-30,STU_1753,Business English,Team Delta,Rep_11,1836000,Active
+2024-09-14,STU_1754,Business English,Team Bravo,Rep_7,1267000,Active
+2025-08-15,STU_1755,Business English,Team Delta,Rep_4,1016000,Active
+2025-10-17,STU_1756,Academic Skills,Team Alpha,Rep_9,1156000,Active
+2024-01-21,STU_1757,Academic Skills,Team Delta,Rep_10,1240000,Active
+2024-05-15,STU_1758,TOEIC,Team Sigma,Rep_1,529000,Active
+2025-06-08,STU_1759,Academic Skills,Team Alpha,Rep_8,1792000,Cancelled
+2024-06-18,STU_1760,TOEIC,Team Bravo,Rep_5,1720000,Active
+2025-06-18,STU_1761,IELTS,Team Alpha,Rep_9,211000,Active
+2025-01-09,STU_1762,Kids English,Team Delta,Rep_12,1541000,Active
+2024-02-18,STU_1763,TOEIC,Team Delta,Rep_4,1815000,Active
+2025-12-07,STU_1764,TOEIC,Team Alpha,Rep_15,415000,Active
+2024-05-19,STU_1765,Academic Skills,Team Sigma,Rep_5,538000,Active
+2025-08-14,STU_1766,Kids English,Team Sigma,Rep_13,1999000,Active
+2025-12-15,STU_1767,IELTS,Team Alpha,Rep_6,860000,Active
+2025-08-10,STU_1768,Kids English,Team Sigma,Rep_7,1304000,Active
+2025-05-07,STU_1769,TOEIC,Team Alpha,Rep_10,1950000,Active
+2024-03-28,STU_1770,Business English,Team Bravo,Rep_15,1708000,Cancelled
+2025-10-20,STU_1771,Kids English,Team Bravo,Rep_3,573000,Active
+2024-08-16,STU_1772,IELTS,Team Bravo,Rep_8,1175000,Active
+2025-11-11,STU_1773,Business English,Team Delta,Rep_12,909000,Active
+2025-11-03,STU_1774,Kids English,Team Alpha,Rep_12,1423000,Active
+2024-07-29,STU_1775,Kids English,Team Sigma,Rep_4,1760000,Active
+2024-08-26,STU_1776,Academic Skills,Team Sigma,Rep_12,665000,Active
+2024-08-29,STU_1777,IELTS,Team Alpha,Rep_2,1312000,Cancelled
+2024-04-08,STU_1778,Business English,Team Sigma,Rep_1,1491000,Active
+2024-05-04,STU_1779,IELTS,Team Bravo,Rep_11,1878000,Active
+2025-05-12,STU_1780,IELTS,Team Alpha,Rep_15,1794000,Active
+2025-08-07,STU_1781,Business English,Team Delta,Rep_15,688000,Active
+2024-01-12,STU_1782,Kids English,Team Delta,Rep_8,1761000,Active
+2024-02-18,STU_1783,Academic Skills,Team Alpha,Rep_4,246000,Active
+2024-05-27,STU_1784,TOEIC,Team Delta,Rep_6,1511000,Active
+2024-06-10,STU_1785,TOEIC,Team Bravo,Rep_6,977000,Active
+2024-03-13,STU_1786,Kids English,Team Bravo,Rep_11,1239000,Active
+2024-08-03,STU_1787,TOEIC,Team Sigma,Rep_15,910000,Active
+2025-08-21,STU_1788,Business English,Team Bravo,Rep_2,600000,Active
+2025-04-26,STU_1789,Kids English,Team Alpha,Rep_14,1180000,Cancelled
+2025-11-16,STU_1790,Business English,Team Bravo,Rep_13,1309000,Active
+2024-08-09,STU_1791,Business English,Team Sigma,Rep_15,449000,Cancelled
+2025-02-20,STU_1792,TOEIC,Team Delta,Rep_11,590000,Active
+2025-10-06,STU_1793,IELTS,Team Bravo,Rep_8,534000,Active
+2024-03-16,STU_1794,Business English,Team Delta,Rep_6,828000,Active
+2024-04-23,STU_1795,IELTS,Team Alpha,Rep_15,1742000,Active
+2025-01-04,STU_1796,TOEIC,Team Alpha,Rep_7,336000,Active
+2024-02-07,STU_1797,Business English,Team Bravo,Rep_10,1082000,Active
+2024-07-26,STU_1798,TOEIC,Team Sigma,Rep_7,887000,Active
+2024-09-03,STU_1799,TOEIC,Team Alpha,Rep_2,1721000,Active
+2024-09-11,STU_1800,Academic Skills,Team Alpha,Rep_11,1026000,Active
+2024-05-29,STU_1801,TOEIC,Team Alpha,Rep_13,926000,Active
+2025-01-10,STU_1802,TOEIC,Team Sigma,Rep_2,1700000,Cancelled
+2025-03-26,STU_1803,Business English,Team Bravo,Rep_12,793000,Active
+2024-04-22,STU_1804,Business English,Team Sigma,Rep_4,1446000,Active
+2025-02-21,STU_1805,TOEIC,Team Alpha,Rep_15,1189000,Active
+2024-03-25,STU_1806,TOEIC,Team Delta,Rep_9,571000,Active
+2025-11-25,STU_1807,TOEIC,Team Sigma,Rep_11,1134000,Active
+2025-10-05,STU_1808,TOEIC,Team Bravo,Rep_10,1194000,Active
+2024-03-12,STU_1809,Academic Skills,Team Bravo,Rep_11,601000,Active
+2024-08-20,STU_1810,Kids English,Team Bravo,Rep_7,1666000,Active
+2024-02-09,STU_1811,Business English,Team Bravo,Rep_9,1713000,Active
+2024-03-14,STU_1812,Kids English,Team Bravo,Rep_2,814000,Active
+2025-03-19,STU_1813,Academic Skills,Team Delta,Rep_10,1496000,Cancelled
+2025-09-25,STU_1814,IELTS,Team Bravo,Rep_7,1749000,Active
+2024-11-02,STU_1815,IELTS,Team Sigma,Rep_6,1382000,Active
+2025-09-03,STU_1816,TOEIC,Team Bravo,Rep_7,1375000,Active
+2024-12-06,STU_1817,TOEIC,Team Delta,Rep_10,1194000,Active
+2025-04-17,STU_1818,Kids English,Team Bravo,Rep_4,819000,Cancelled
+2025-05-07,STU_1819,TOEIC,Team Bravo,Rep_5,387000,Active
+2025-04-25,STU_1820,Business English,Team Alpha,Rep_2,1321000,Active
+2025-05-25,STU_1821,IELTS,Team Alpha,Rep_11,330000,Cancelled
+2025-02-21,STU_1822,TOEIC,Team Alpha,Rep_14,1004000,Active
+2024-09-04,STU_1823,TOEIC,Team Delta,Rep_10,1394000,Active
+2024-09-21,STU_1824,TOEIC,Team Sigma,Rep_5,1135000,Active
+2024-08-07,STU_1825,Business English,Team Sigma,Rep_8,1185000,Active
+2024-03-12,STU_1826,IELTS,Team Delta,Rep_3,382000,Active
+2025-05-21,STU_1827,IELTS,Team Sigma,Rep_15,1182000,Cancelled
+2024-10-24,STU_1828,TOEIC,Team Delta,Rep_14,563000,Cancelled
+2024-11-20,STU_1829,Kids English,Team Alpha,Rep_11,238000,Active
+2025-02-04,STU_1830,Kids English,Team Bravo,Rep_14,1750000,Active
+2025-11-28,STU_1831,IELTS,Team Sigma,Rep_4,696000,Active
+2024-08-03,STU_1832,TOEIC,Team Bravo,Rep_4,1739000,Cancelled
+2025-01-02,STU_1833,Academic Skills,Team Sigma,Rep_14,1572000,Active
+2025-01-03,STU_1834,Academic Skills,Team Alpha,Rep_10,1181000,Active
+2024-04-16,STU_1835,Business English,Team Bravo,Rep_15,1120000,Active
+2024-09-01,STU_1836,TOEIC,Team Delta,Rep_14,1620000,Active
+2025-09-19,STU_1837,TOEIC,Team Bravo,Rep_4,921000,Active
+2025-08-21,STU_1838,TOEIC,Team Sigma,Rep_11,1384000,Active
+2025-12-14,STU_1839,IELTS,Team Delta,Rep_15,215000,Active
+2025-03-31,STU_1840,Business English,Team Bravo,Rep_9,692000,Active
+2024-02-20,STU_1841,Kids English,Team Sigma,Rep_12,1649000,Active
+2025-04-25,STU_1842,Academic Skills,Team Alpha,Rep_6,1331000,Active
+2025-09-14,STU_1843,TOEIC,Team Bravo,Rep_1,1093000,Cancelled
+2025-01-16,STU_1844,IELTS,Team Sigma,Rep_1,1673000,Active
+2024-04-13,STU_1845,IELTS,Team Bravo,Rep_7,510000,Active
+2024-03-28,STU_1846,Academic Skills,Team Alpha,Rep_11,938000,Active
+2024-08-25,STU_1847,IELTS,Team Alpha,Rep_4,1393000,Active
+2025-07-16,STU_1848,Business English,Team Sigma,Rep_11,745000,Active
+2024-07-05,STU_1849,TOEIC,Team Alpha,Rep_1,613000,Cancelled
+2025-09-27,STU_1850,IELTS,Team Bravo,Rep_9,450000,Active
+2024-02-03,STU_1851,Academic Skills,Team Delta,Rep_1,958000,Active
+2024-12-04,STU_1852,IELTS,Team Delta,Rep_12,1364000,Active
+2025-10-11,STU_1853,Kids English,Team Delta,Rep_8,1497000,Cancelled
+2025-11-29,STU_1854,TOEIC,Team Alpha,Rep_11,1639000,Active
+2024-02-03,STU_1855,Business English,Team Bravo,Rep_12,1831000,Active
+2025-12-24,STU_1856,TOEIC,Team Delta,Rep_1,1962000,Active
+2024-04-20,STU_1857,Kids English,Team Sigma,Rep_11,1262000,Active
+2025-11-11,STU_1858,TOEIC,Team Bravo,Rep_12,1013000,Active
+2024-05-12,STU_1859,Business English,Team Sigma,Rep_11,228000,Cancelled
+2024-11-24,STU_1860,Academic Skills,Team Sigma,Rep_13,1157000,Active
+2025-02-25,STU_1861,Academic Skills,Team Bravo,Rep_2,676000,Active
+2024-04-03,STU_1862,Academic Skills,Team Bravo,Rep_11,517000,Active
+2025-07-06,STU_1863,Business English,Team Delta,Rep_5,444000,Cancelled
+2024-06-02,STU_1864,Kids English,Team Bravo,Rep_6,947000,Active
+2024-03-21,STU_1865,Business English,Team Sigma,Rep_10,896000,Active
+2025-12-29,STU_1866,Kids English,Team Delta,Rep_5,471000,Active
+2024-11-07,STU_1867,IELTS,Team Sigma,Rep_5,1663000,Active
+2024-03-09,STU_1868,TOEIC,Team Sigma,Rep_1,1971000,Active
+2024-10-20,STU_1869,Academic Skills,Team Bravo,Rep_10,1462000,Active
+2025-11-24,STU_1870,Kids English,Team Alpha,Rep_13,576000,Cancelled
+2025-08-23,STU_1871,Academic Skills,Team Bravo,Rep_6,465000,Active
+2025-10-23,STU_1872,Business English,Team Sigma,Rep_6,1125000,Active
+2024-01-22,STU_1873,TOEIC,Team Bravo,Rep_1,1120000,Active
+2025-09-11,STU_1874,TOEIC,Team Alpha,Rep_9,1582000,Active
+2024-12-09,STU_1875,IELTS,Team Delta,Rep_5,539000,Active
+2025-06-28,STU_1876,IELTS,Team Bravo,Rep_12,588000,Active
+2025-08-15,STU_1877,Kids English,Team Alpha,Rep_5,776000,Active
+2025-07-26,STU_1878,TOEIC,Team Alpha,Rep_1,1912000,Active
+2025-05-30,STU_1879,Kids English,Team Alpha,Rep_9,202000,Active
+2024-02-14,STU_1880,Academic Skills,Team Sigma,Rep_13,1652000,Active
+2024-11-20,STU_1881,TOEIC,Team Sigma,Rep_9,1365000,Active
+2025-05-28,STU_1882,IELTS,Team Delta,Rep_4,575000,Active
+2025-06-22,STU_1883,TOEIC,Team Delta,Rep_8,1893000,Active
+2025-01-15,STU_1884,Kids English,Team Bravo,Rep_10,523000,Active
+2025-08-26,STU_1885,TOEIC,Team Delta,Rep_5,345000,Active
+2024-05-15,STU_1886,TOEIC,Team Alpha,Rep_6,492000,Active
+2025-03-17,STU_1887,Academic Skills,Team Delta,Rep_11,1888000,Active
+2025-01-31,STU_1888,Business English,Team Delta,Rep_10,631000,Active
+2025-09-01,STU_1889,Kids English,Team Alpha,Rep_12,904000,Active
+2025-11-18,STU_1890,Academic Skills,Team Delta,Rep_2,1148000,Cancelled
+2024-07-31,STU_1891,IELTS,Team Sigma,Rep_15,784000,Active
+2025-06-01,STU_1892,Academic Skills,Team Sigma,Rep_4,598000,Active
+2025-07-14,STU_1893,Kids English,Team Bravo,Rep_2,1016000,Active
+2024-10-22,STU_1894,IELTS,Team Delta,Rep_15,1567000,Active
+2025-09-26,STU_1895,Academic Skills,Team Sigma,Rep_8,1163000,Active
+2024-07-08,STU_1896,Kids English,Team Sigma,Rep_14,1363000,Active
+2024-04-30,STU_1897,Academic Skills,Team Sigma,Rep_3,386000,Active
+2025-05-02,STU_1898,Kids English,Team Alpha,Rep_1,260000,Active
+2024-12-14,STU_1899,TOEIC,Team Sigma,Rep_1,1138000,Active
+2024-09-29,STU_1900,Academic Skills,Team Bravo,Rep_7,1603000,Active
+2024-08-25,STU_1901,Business English,Team Sigma,Rep_9,909000,Cancelled
+2025-12-16,STU_1902,TOEIC,Team Bravo,Rep_4,1006000,Active
+2024-08-10,STU_1903,Business English,Team Alpha,Rep_5,1663000,Active
+2025-10-18,STU_1904,IELTS,Team Bravo,Rep_10,1542000,Active
+2025-10-25,STU_1905,TOEIC,Team Bravo,Rep_10,1525000,Cancelled
+2024-07-10,STU_1906,TOEIC,Team Bravo,Rep_13,1567000,Active
+2024-06-15,STU_1907,Kids English,Team Delta,Rep_15,210000,Active
+2025-01-06,STU_1908,Academic Skills,Team Delta,Rep_3,1285000,Active
+2025-10-30,STU_1909,IELTS,Team Alpha,Rep_6,425000,Active
+2025-08-13,STU_1910,Business English,Team Alpha,Rep_12,1376000,Active
+2025-12-27,STU_1911,Kids English,Team Bravo,Rep_13,1934000,Active
+2025-06-08,STU_1912,Academic Skills,Team Bravo,Rep_7,763000,Active
+2024-04-23,STU_1913,TOEIC,Team Bravo,Rep_15,971000,Active
+2024-03-04,STU_1914,Kids English,Team Alpha,Rep_14,1794000,Active
+2025-05-20,STU_1915,TOEIC,Team Bravo,Rep_6,1807000,Active
+2025-09-27,STU_1916,TOEIC,Team Sigma,Rep_4,1883000,Active
+2025-05-23,STU_1917,Business English,Team Bravo,Rep_15,1798000,Active
+2025-12-07,STU_1918,TOEIC,Team Sigma,Rep_9,1533000,Active
+2025-07-02,STU_1919,Business English,Team Delta,Rep_3,1084000,Cancelled
+2025-10-14,STU_1920,TOEIC,Team Sigma,Rep_1,1466000,Active
+2025-04-13,STU_1921,Kids English,Team Alpha,Rep_6,1716000,Active
+2024-04-25,STU_1922,Kids English,Team Sigma,Rep_5,1589000,Active
+2024-09-05,STU_1923,TOEIC,Team Alpha,Rep_12,1553000,Cancelled
+2025-05-12,STU_1924,IELTS,Team Bravo,Rep_1,1330000,Active
+2025-06-07,STU_1925,IELTS,Team Delta,Rep_14,425000,Active
+2025-01-21,STU_1926,TOEIC,Team Alpha,Rep_1,1024000,Active
+2025-11-18,STU_1927,Business English,Team Bravo,Rep_6,417000,Active
+2024-05-04,STU_1928,TOEIC,Team Bravo,Rep_3,1136000,Active
+2025-05-08,STU_1929,Kids English,Team Sigma,Rep_7,952000,Active
+2025-04-05,STU_1930,Academic Skills,Team Sigma,Rep_4,705000,Active
+2025-05-24,STU_1931,TOEIC,Team Sigma,Rep_2,458000,Cancelled
+2025-05-17,STU_1932,TOEIC,Team Sigma,Rep_13,1997000,Active
+2025-12-07,STU_1933,TOEIC,Team Delta,Rep_9,1740000,Active
+2025-08-12,STU_1934,Business English,Team Delta,Rep_7,1996000,Active
+2024-02-29,STU_1935,Academic Skills,Team Bravo,Rep_14,253000,Active
+2024-09-06,STU_1936,Business English,Team Delta,Rep_8,1270000,Active
+2024-01-29,STU_1937,Kids English,Team Sigma,Rep_13,926000,Active
+2025-05-12,STU_1938,Academic Skills,Team Bravo,Rep_3,888000,Active
+2025-11-05,STU_1939,Academic Skills,Team Delta,Rep_5,1744000,Cancelled
+2024-04-14,STU_1940,TOEIC,Team Sigma,Rep_8,1322000,Cancelled
+2025-11-08,STU_1941,Business English,Team Sigma,Rep_2,1243000,Active
+2025-10-24,STU_1942,IELTS,Team Alpha,Rep_3,1976000,Active
+2025-03-13,STU_1943,Kids English,Team Sigma,Rep_9,1796000,Cancelled
+2025-07-23,STU_1944,Academic Skills,Team Delta,Rep_5,1713000,Active
+2024-04-25,STU_1945,Kids English,Team Bravo,Rep_5,618000,Cancelled
+2025-07-19,STU_1946,TOEIC,Team Alpha,Rep_5,889000,Active
+2025-01-24,STU_1947,Kids English,Team Bravo,Rep_6,1049000,Active
+2025-07-30,STU_1948,IELTS,Team Bravo,Rep_10,261000,Active
+2025-05-30,STU_1949,TOEIC,Team Alpha,Rep_12,1368000,Active
+2025-04-04,STU_1950,IELTS,Team Delta,Rep_5,415000,Active
+2024-10-08,STU_1951,IELTS,Team Alpha,Rep_8,202000,Active
+2025-03-24,STU_1952,Academic Skills,Team Sigma,Rep_13,359000,Active
+2024-07-19,STU_1953,Business English,Team Alpha,Rep_9,1962000,Active
+2024-04-11,STU_1954,Kids English,Team Alpha,Rep_10,980000,Active
+2024-07-04,STU_1955,Academic Skills,Team Sigma,Rep_11,1343000,Cancelled
+2025-02-13,STU_1956,Kids English,Team Bravo,Rep_5,1092000,Active
+2025-03-23,STU_1957,TOEIC,Team Delta,Rep_11,1312000,Active
+2025-04-17,STU_1958,TOEIC,Team Alpha,Rep_2,528000,Active
+2024-11-05,STU_1959,IELTS,Team Alpha,Rep_9,779000,Active
+2025-04-05,STU_1960,IELTS,Team Alpha,Rep_12,1580000,Cancelled
+2025-11-15,STU_1961,Academic Skills,Team Bravo,Rep_13,1833000,Active
+2024-07-11,STU_1962,Business English,Team Delta,Rep_10,1490000,Active
+2024-08-26,STU_1963,IELTS,Team Alpha,Rep_14,1840000,Active
+2024-11-25,STU_1964,IELTS,Team Bravo,Rep_15,1151000,Active
+2025-05-31,STU_1965,IELTS,Team Alpha,Rep_8,1546000,Active
+2025-05-20,STU_1966,Business English,Team Alpha,Rep_1,834000,Cancelled
+2025-10-01,STU_1967,Kids English,Team Alpha,Rep_8,1187000,Active
+2025-09-26,STU_1968,Academic Skills,Team Alpha,Rep_7,1764000,Active
+2024-07-21,STU_1969,TOEIC,Team Alpha,Rep_13,1872000,Active
+2025-09-22,STU_1970,Business English,Team Sigma,Rep_3,1418000,Active
+2025-02-05,STU_1971,Business English,Team Bravo,Rep_11,1120000,Active
+2025-02-27,STU_1972,TOEIC,Team Alpha,Rep_12,937000,Active
+2025-01-20,STU_1973,TOEIC,Team Delta,Rep_5,1555000,Active
+2025-01-01,STU_1974,Academic Skills,Team Delta,Rep_1,369000,Active
+2025-05-13,STU_1975,Business English,Team Delta,Rep_4,720000,Active
+2024-07-06,STU_1976,Academic Skills,Team Bravo,Rep_13,1686000,Active
+2024-06-23,STU_1977,Kids English,Team Bravo,Rep_8,239000,Active
+2024-02-26,STU_1978,IELTS,Team Delta,Rep_5,1760000,Active
+2024-05-02,STU_1979,Business English,Team Alpha,Rep_13,1484000,Cancelled
+2025-01-18,STU_1980,Kids English,Team Alpha,Rep_6,1618000,Active
+2025-07-22,STU_1981,IELTS,Team Delta,Rep_5,1154000,Active
+2025-02-20,STU_1982,Kids English,Team Delta,Rep_5,1449000,Active
+2024-10-22,STU_1983,Academic Skills,Team Delta,Rep_2,1183000,Active
+2024-04-01,STU_1984,Business English,Team Sigma,Rep_10,1347000,Active
+2024-12-05,STU_1985,Academic Skills,Team Alpha,Rep_8,1174000,Active
+2024-08-28,STU_1986,Business English,Team Delta,Rep_5,237000,Active
+2025-09-29,STU_1987,Academic Skills,Team Bravo,Rep_13,527000,Active
+2025-04-26,STU_1988,IELTS,Team Delta,Rep_10,1474000,Active
+2024-05-14,STU_1989,Academic Skills,Team Sigma,Rep_9,1399000,Active
+2025-12-12,STU_1990,Academic Skills,Team Delta,Rep_11,1825000,Active
+2025-08-16,STU_1991,Kids English,Team Sigma,Rep_14,1113000,Active
+2025-10-19,STU_1992,Business English,Team Bravo,Rep_15,653000,Cancelled
+2024-08-09,STU_1993,Academic Skills,Team Bravo,Rep_9,236000,Active
+2025-04-22,STU_1994,Academic Skills,Team Alpha,Rep_10,1539000,Active
+2024-06-23,STU_1995,Kids English,Team Bravo,Rep_6,1911000,Active
+2025-09-18,STU_1996,IELTS,Team Delta,Rep_7,1172000,Cancelled
+2024-12-17,STU_1997,Business English,Team Delta,Rep_7,995000,Active
+2025-04-15,STU_1998,IELTS,Team Sigma,Rep_13,1172000,Active
+2025-03-19,STU_1999,IELTS,Team Alpha,Rep_5,792000,Active
+2025-08-21,STU_2000,Business English,Team Bravo,Rep_8,1337000,Active
